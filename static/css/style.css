@@ -1,0 +1,18 @@
+body {
+
+    color: #f7f7f7;
+}
+
+.jumbotron {
+    color: rgb(63, 61, 61);
+    background-size: auto, contain;
+    background-image: 
+        url("../images/Family.jpg"),
+        url("../images/Change-sign.jpg");
+    background-position:
+        left, /* this positions the first image */
+        right; /* this positions the second image */
+    background-repeat:
+        no-repeat; /* this applies to both images */
+}
+
