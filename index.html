@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MovingBuddy</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body class="bg-light">
+    <body>
+        <div>
+            <nav class="navbar navbar-dark bg-dark">
+                <a class="navbar-brand" href="index.html">
+                    Your Moving Buddy
+                </a>
+            </nav>
+        </div>
+        <div class="jumbotron">
+            <h1 style="line-height: 3.0;font-weight: 900;">Moving?</h1>
+            <p style="font-size:36px;font-weight: 700;">Find the best place for you!</p>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3">
+                    <h5 href="#">
+                        <img src="static/images/cartoon-bubble2.png" width="320" height="225" class="align-baseline" alt="">
+                        
+                    </h5>
+                </div>
+                <div class="col-md-8">
+                    <p style="font-size:21px; color:rgb(68, 67, 67)">According to the Census Bureau nearly 10% of the US relocate every year. Use Moving Buddy to find the best places in the US to relocate to based on what matters the most to you. 
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3">
+                    <form class="bg-dark">
+                        <h5 align="center">Your Moving Buddy Details</h5>
+                        <ul class="list-group bg-dark">
+                            <li class="list-group-item bg-dark">
+                                <label for="date">Enter Income</label>
+                                <input type="number" placeholder="$50,000-75,000" id="datetime"/>
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="city"> Enter Family Size</label>
+                                <input type="number" placeholder="0-2" id="city"/>
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="state">Enter State</label>
+                                <input type="text" placeholder="State" id="state"/>
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="country">Enter Country</label>
+                                <input type="text" placeholder="Country" id="country"/>
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="shape">Enter Shape</label>
+                                <input type="text" placeholder="Shape" id="shape"/>
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <button id="filter-btn" type="button" class="btn btn-light">
+                                    Find a Match!
+                                </button>
+                            </li>
+                        </ul>
+                    </form>
+                </div>
+            </div>
+        </div>   
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+        <script src="static/js/data.js"></script>
+        <script src="static/js/app.js"></script>
+</body>   
+</html>
+
