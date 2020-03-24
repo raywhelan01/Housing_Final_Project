@@ -5,11 +5,15 @@ body {
 
 .background {
     background: url("../images/future-road.jpg") center;
-        background-size: fill;
+        background-size: 1100px 230px;
         background-repeat: no-repeat;
         background-color: #343941;
+        text-align: center;
 }
 
+.navbar{
+    height: 75px;
+}
 
 ul {
 

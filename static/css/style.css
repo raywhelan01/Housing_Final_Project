@@ -18,6 +18,10 @@ body {
         no-repeat; /* this applies to both images */
 }
 
+.navbar{
+    height: 75px;
+}
+
 ul {
 
 }
