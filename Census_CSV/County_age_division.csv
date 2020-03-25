@@ -1,0 +1,839 @@
+county_name,state_name,population_size,percent_1to9,percent_10to14,percent_15to19,percent_20to34,percent_35to44,percent_45to64,percent_65plus
+Los Angeles County, California,10105518,11.7,6.3,6.2,23.1,27,12,11.7
+Cook County, Illinois,5180493,11.9,6.2,6,22.8,26,12.3,12.6
+Harris County, Texas,4698619,14.6,7.7,6.9,22.8,26.8,10.7,9.5
+Maricopa County, Arizona,4410824,12.7,7,6.7,21.2,25.5,11.5,13.4
+San Diego County, California,3343364,11.9,6.2,6.2,24.1,25.8,11.8,12.2
+Orange County, California,3185968,11.4,6.6,6.4,21,27,12.7,12.8
+Miami-Dade County, Florida,2761581,11.1,5.7,5.7,20.4,28.4,12.5,13.7
+Dallas County, Texas,2637772,14.7,7.3,6.8,23.5,26.2,10.9,9.6
+Kings County, New York,2582830,13.2,6.1,5.3,24.6,25.7,11.2,12.1
+Riverside County, California,2450758,13.4,7.4,7.2,20.9,25.3,11.5,12.7
+Queens County, New York,2278906,11.2,5.8,5,21.8,27.2,13.2,13.7
+King County, Washington,2233163,11.6,5.5,5.3,24.4,28.1,11.9,11.5
+Clark County, Nevada,2231647,12.5,6.9,6.1,20.9,27.1,11.8,13.3
+San Bernardino County, California,2171603,14.3,7.5,7.3,22.9,25.2,11.3,10.4
+Tarrant County, Texas,2084931,14.3,7.6,7.1,21.6,26.7,11.5,10
+Bexar County, Texas,1986049,13.8,7.6,7.2,23.3,25.4,10.6,10.9
+Broward County, Florida,1951260,11.1,6.4,5.7,19.2,27.5,13.4,14.6
+Santa Clara County, California,1937570,11.6,6.6,5.9,22.4,28.2,11.8,11.5
+Wayne County, Michigan,1753893,12.9,6.6,6.4,20.5,24.7,13.4,13.5
+Alameda County, California,1666753,11.3,6,5.6,22.7,28.4,12.2,12.2
+New York County, New York,1628701,8.3,3.9,4.2,29.2,26.5,11.3,14.1
+Middlesex County, Massachusetts,1614714,10.8,5.5,6.4,22.7,26.5,12.9,13.1
+Philadelphia County, Pennsylvania,1584138,12.5,6,6.1,26.1,24,11.7,11.9
+Sacramento County, California,1540975,12.8,6.9,6.2,22,25.9,12.2,12.3
+Palm Beach County, Florida,1485941,10.2,5.5,5.5,17.4,24.3,13.3,19.8
+Suffolk County, New York,1481093,10.8,6.4,6.6,18.4,26.5,14.5,14.8
+Hillsborough County, Florida,1436888,12.3,6.6,6.3,21.7,26.9,12,12.6
+Bronx County, New York,1432132,13.8,7,6.7,23.4,25.1,11.2,11.3
+Orange County, Florida,1380645,12.1,6.4,6.8,24.3,27.3,11.3,10.5
+Nassau County, New York,1358343,11.3,6.2,6.3,18.1,25.9,14.4,14.9
+Franklin County, Ohio,1310300,13.3,6.4,6.6,25.1,25.3,11.3,10.6
+Hennepin County, Minnesota,1259428,12.6,6,5.7,23.2,25.9,12.6,12.1
+Oakland County, Michigan,1259201,10.9,6.2,6.1,19.2,26.5,14.3,14.6
+Travis County, Texas,1248743,12.2,6.1,6,26.7,28.8,10.5,8.8
+Cuyahoga County, Ohio,1243857,11,6.1,6,20.5,23.9,14.3,15.6
+Allegheny County, Pennsylvania,1218452,10.2,5.4,5.8,21.6,23.8,14.4,16.1
+Salt Lake County, Utah,1152633,14.9,7.8,7,23.5,25.8,10.1,9.9
+Fairfax County, Virginia,1150795,12.8,6.6,6.3,19.4,28.8,12.7,12.1
+Contra Costa County, California,1150215,11.5,7,6.4,18.6,27.6,13.2,14
+Mecklenburg County, North Carolina,1093901,13.3,6.4,6.4,23.5,28.1,11,10.1
+Wake County, North Carolina,1092305,12.7,7.1,6.9,21,29.2,11.4,10.4
+Montgomery County, Maryland,1052567,12.9,6.4,6.1,18.4,27.7,13.1,13.5
+Fulton County, Georgia,1050114,12.1,6,6.7,24.2,28,11.3,10.4
+Pima County, Arizona,1039073,10.9,6.4,6.7,21.4,22.3,12.4,17.7
+Collin County, Texas,1005146,12.9,8.4,7.1,18.6,30.9,11.2,10
+St. Louis County, Missouri,996945,11.9,6.2,6.2,19,24.4,14.1,15.7
+Fresno County, California,994400,15.6,8.3,7.2,22.5,23.8,10.5,10.5
+Honolulu County, Hawaii,980080,12.1,5.9,5.4,22.2,24.8,11.9,14.6
+Pinellas County, Florida,975280,9,4.3,4.5,17,24.4,16,21.2
+Westchester County, New York,967612,11.5,6.4,6.6,17.8,27,13.7,14.3
+Marion County, Indiana,954670,14,6.8,6.2,23.7,24.6,12,11.1
+Duval County, Florida,950181,13.2,6,5.7,23.2,25.1,12.7,12.6
+Milwaukee County, Wisconsin,948201,13.3,6.9,6.6,23.1,24.4,12,11.6
+Fairfield County, Connecticut,943823,11.4,6.9,7,17.7,27,14,13.6
+Bergen County, New Jersey,936692,11.1,6.2,6.1,17.5,27.7,14.2,14.4
+Shelby County, Tennessee,935764,13.4,7.4,6.5,21.6,24.9,12.4,12
+DuPage County, Illinois,928589,12.3,6.3,6.5,18.9,26.5,14,13.5
+Gwinnett County, Georgia,927781,13.6,8.4,7.5,19.8,29.1,11.6,9.1
+Erie County, New York,919719,11.1,5.5,6.5,20.6,23.9,14.4,15.4
+Prince George's County, Maryland,909308,12.5,6.2,6.4,21.4,27.3,12.9,11.9
+Kern County, California,896764,15.2,9.1,7.4,23,24,10.5,9.7
+Hartford County, Connecticut,892697,10.7,6.3,6.5,19.6,25.7,13.8,14.6
+Pierce County, Washington,891299,13.6,6.3,6,22.2,25.8,12.4,12.3
+San Francisco County, California,883305,7.9,3.6,3.7,28.8,28.8,11.5,13.1
+Macomb County, Michigan,874759,11.6,5.5,6,19.5,26,14.3,14.9
+Hidalgo County, Texas,865939,17.6,9.4,8.9,21.1,23.6,8.3,9.9
+Denton County, Texas,859064,13.2,7.2,7.2,21.3,29.9,11.3,9.1
+New Haven County, Connecticut,857620,10.2,6.3,6.8,20.3,25.1,14,14.7
+Ventura County, California,850967,12.2,6.7,6.7,20.1,25.6,13.2,13.3
+El Paso County, Texas,840758,14.4,8.1,7.7,23.2,23.9,10.4,10.8
+Worcester County, Massachusetts,830839,11,6.2,6.7,19.9,26.3,14.2,13.7
+Middlesex County, New Jersey,829685,11.6,6.3,6.5,20.1,27.5,13,12.8
+Montgomery County, Pennsylvania,828604,11.4,6.3,6.2,18.2,26.1,14.2,15.1
+Baltimore County, Maryland,828431,11.6,6.3,6.3,19.8,25,13.7,14.7
+Hamilton County, Ohio,816684,12.5,6.6,6.6,21.8,23.8,13.3,13.2
+Snohomish County, Washington,814901,12.4,6.5,5.7,20.5,27.9,13.4,12.1
+Multnomah County, Oregon,811880,10.7,5.1,5.1,24.5,29.6,11.5,11.9
+Suffolk County, Massachusetts,807252,9.7,4.3,6.7,33,23.9,10.4,10.6
+Essex County, New Jersey,799767,13.3,6.5,6.3,20.2,28,12.2,11.6
+Oklahoma County, Oklahoma,792582,14.5,7.2,6.3,22.2,24.2,11.9,11.9
+Essex County, Massachusetts,790638,11.1,6.3,6.6,18.8,25.8,14.3,14.4
+Fort Bend County, Texas,787858,14.4,8.1,7.4,17.8,29.4,11.8,10.2
+Jefferson County, Kentucky,770517,12.5,6.1,6,20.9,24.8,13.5,14.1
+San Mateo County, California,769545,11.3,6,5.2,20.2,28.2,12.9,13.7
+Cobb County, Georgia,756865,12.5,6.9,6.7,21,28.4,12.2,11.1
+DeKalb County, Georgia,756558,13.7,6,5.6,23.1,27.4,11.8,10.9
+Lee County, Florida,754610,9.3,5.2,5.2,15.7,22,14,25
+San Joaquin County, California,752660,14.6,7.9,7.4,20.9,25.3,11.1,11.2
+Monroe County, New York,742474,11.1,6,6.7,21,24.2,13.9,14.9
+Denver County, Colorado,716492,11.6,5.2,4.8,29.3,27.6,9.9,10.4
+El Paso County, Colorado,713856,13.5,6.7,6.8,24.1,24.5,11.7,11.3
+Polk County, Florida,708009,11.6,6.7,6.2,19,23.9,12.3,18.2
+Norfolk County, Massachusetts,705388,10.8,6.1,6.4,19.1,26.6,14,14.3
+District of Columbia, District of Columbia,702455,11.2,4.8,5.3,30.8,25.8,9.9,10.7
+Lake County, Illinois,700832,11.9,7.5,7.7,18.4,26.6,13.7,12.5
+Jackson County, Missouri,700307,13.3,6.5,6,21.7,24.6,13.1,13
+Davidson County, Tennessee,692587,12.5,5.3,5.7,27.3,25.5,11.5,10.8
+Will County, Illinois,692310,11.9,8.1,7.5,18.4,28.5,12.6,11.4
+Bernalillo County, New Mexico,678701,10.8,7.2,6.2,21.4,25,13,14.3
+Hudson County, New Jersey,676061,12.2,5.3,4.8,27.1,28,10.6,10.2
+Jefferson County, Alabama,659300,12.8,6.2,6.2,20.8,25,13.2,14.1
+Kent County, Michigan,653786,13.5,6.6,6.6,22.6,24.7,12.3,12
+Arapahoe County, Colorado,651215,13.1,6.3,6.2,21.8,27.4,12.2,11.6
+Tulsa County, Oklahoma,648360,13.9,7.3,6.6,21,24.8,12,12.7
+Providence County, Rhode Island,636084,11.6,5.3,6.9,22.6,25.2,13,12.9
+Bucks County, Pennsylvania,628195,10,6.5,6.2,16.8,26.1,15.9,16.5
+Utah County, Utah,622213,18.4,9.8,9.5,26.9,21.1,6.7,7
+Monmouth County, New Jersey,621354,10.2,6.9,6.5,16.7,26.4,15.7,15.2
+Baltimore city, Maryland,602495,11.9,5.5,5.9,25.9,24.2,12.7,12.2
+Ocean County, New Jersey,601651,13.1,7,5.8,16.4,21.6,13.4,19.6
+Washington County, Oregon,597695,12.5,6.4,6.2,21.9,28.1,11.5,11.8
+Johnson County, Kansas,597555,12.9,7.1,6.4,19.5,27,12.5,12.6
+Brevard County, Florida,596849,9.2,5.9,5.6,16.3,22.9,16.4,20.2
+Montgomery County, Texas,590925,13.8,8,6.9,18.5,27.3,12.1,12.3
+Jefferson County, Colorado,580233,10.7,5.6,5.6,20.4,26.8,14.4,14.4
+Anne Arundel County, Maryland,576031,12.1,6.5,5.6,20.8,27,13.3,13.1
+Douglas County, Nebraska,566880,14.5,7.1,6.7,22,25.1,11.7,11.3
+Williamson County, Texas,566719,13.7,7.5,7,19.3,29.9,10.5,10.8
+Delaware County, Pennsylvania,564751,12.2,5.9,6.9,19.9,24.8,14,13.8
+Bristol County, Massachusetts,564022,10.6,6.3,6.4,19.2,26.5,14.2,14.5
+New Castle County, Delaware,559335,11.4,6.4,6.6,21,25.7,13.4,13.7
+Union County, New Jersey,558067,13.1,6.3,6.4,18.9,27.9,13,12.3
+Ramsey County, Minnesota,550210,13.6,6.1,6.2,23.9,23.6,12.2,12.4
+Stanislaus County, California,549815,14.3,8.2,7.2,21.1,24.8,11.2,11.6
+Volusia County, Florida,547538,9.2,5.4,5.4,17.6,22.7,15.3,20.6
+Lancaster County, Pennsylvania,543557,12.5,7.1,6.8,19.1,23.4,12.9,15.9
+Dane County, Wisconsin,542364,10.8,6.2,6.5,26,25.1,11.5,12.2
+Summit County, Ohio,541918,11.1,6,6.2,19.3,24.9,14.6,15.5
+Pasco County, Florida,539630,10.9,5.9,5.8,15.8,25.6,13.5,20.1
+Kane County, Illinois,534216,13.4,7.3,7.5,18.1,27.5,12.5,12.3
+Guilford County, North Carolina,533670,11.7,6.6,7.6,21,25.5,12.6,13.1
+Montgomery County, Ohio,532331,12,6.3,6.4,20.2,23.7,13.5,15.4
+Chester County, Pennsylvania,522046,12.1,6.5,7,17.7,26.3,14,14.3
+Plymouth County, Massachusetts,518132,11.4,5.8,6.6,17.2,25.9,15,16
+Spokane County, Washington,514631,12,6.5,6.5,21.5,24.3,13,14.5
+Greenville County, South Carolina,514213,12.4,6.7,6.2,20.4,25.8,12.7,14
+Sedgwick County, Kansas,513607,14.1,7.4,6.7,20.9,23.8,12.7,12.6
+Adams County, Colorado,511868,14.2,8,6.8,22.8,27,11,9.4
+Camden County, New Jersey,507078,11.9,6.9,6.1,19.9,26,13.5,13.8
+Passaic County, New Jersey,503310,13.2,6.7,6.8,20.2,25.9,12.7,12.7
+Sonoma County, California,499942,10.4,5.7,6.1,18.1,25.5,14.6,17.2
+Morris County, New Jersey,494228,10.2,6.7,6.6,17.1,27.6,14.8,14.6
+Polk County, Iowa,487204,13.7,7.3,6.4,21.6,26.2,12,11.4
+Lake County, Indiana,484411,12.2,7,6.7,18.4,25.4,13.8,14.3
+Clark County, Washington,481857,12.6,7.1,6.3,19.3,26.5,12.7,14
+Richmond County, New York,476179,11.8,6.2,6.3,19.5,26.3,13.9,14.4
+Hampden County, Massachusetts,470406,11.3,6.2,7.1,20.5,24.4,13.7,14.2
+Ada County, Idaho,469966,11.4,7.8,7.2,20.1,27.1,12.1,13
+Prince William County, Virginia,468011,14.5,8.3,6.9,19.7,29.6,11.2,9.2
+Seminole County, Florida,467832,10.8,6.4,6.1,20.6,27.7,13,13.8
+Tulare County, California,465861,16.4,9.2,8.2,21.1,23.7,10.1,10
+Washoe County, Nevada,465735,12.1,6,5.9,21.6,24.8,13.2,14.8
+Knox County, Tennessee,465289,11.6,6,6.4,22.5,25.1,12.5,14
+Onondaga County, New York,461809,12,5.4,7.2,20.3,23.9,14,14.5
+Virginia Beach city, Virginia,450189,12.4,6,5.7,23.8,25.5,12.4,12.4
+York County, Pennsylvania,448273,11.7,6.5,6.5,18,25.7,14.2,15.3
+Pinal County, Arizona,447138,11.8,7,6,18.5,24.3,12,18.9
+Solano County, California,446610,12,6.5,6.1,21,25.1,13.5,13.9
+Santa Barbara County, California,446527,12.2,6.6,8.6,24,22.1,11.3,13.1
+Burlington County, New Jersey,445384,10.9,6.1,6,18.7,26.7,14.7,14.7
+East Baton Rouge Parish, Louisiana,440956,13,5.9,7.1,25,22.8,11.9,12.7
+Monterey County, California,435594,14.3,7.7,6.9,21.5,24.8,11.1,11.7
+Jefferson Parish, Louisiana,434051,12.3,6.3,5.4,20,25,13.9,15.3
+Lucas County, Ohio,429899,12.3,6.8,6.4,20.5,23.9,13.7,14.3
+Sarasota County, Florida,426718,7.2,4.3,4.5,12,19.6,15.6,31.5
+Dakota County, Minnesota,425423,13.2,6.9,6.5,18.8,26.7,14,12.4
+Cameron County, Texas,423908,16.4,8.6,8.6,19.5,23.5,9.7,11.7
+Berks County, Pennsylvania,420152,11.8,6.5,7.1,18.8,24.9,13.6,14.6
+Clackamas County, Oregon,416075,11.1,6.5,5.8,17.8,26.6,14.2,15.9
+Hillsborough County, New Hampshire,415247,10.8,6,6.1,19.9,26.7,15,13.5
+Richland County, South Carolina,414576,11.9,5.8,8.5,25.6,24.1,11.3,11.4
+Mobile County, Alabama,413757,12.5,6.9,6.5,20.6,24.2,13.4,14.4
+Genesee County, Michigan,406892,11.4,7,6.4,18.7,24.6,14.4,15.6
+Loudoun County, Virginia,406850,14.8,8.7,7,17.1,32.8,10.5,8.3
+Charleston County, South Carolina,405905,11,5.7,5.6,23,25.2,13.2,14.2
+Waukesha County, Wisconsin,403072,10.9,6.5,6.5,15.9,26,15.6,16.1
+St. Charles County, Missouri,399182,12,7.1,6.4,19.1,26.6,13.9,13.3
+Manatee County, Florida,394855,9.7,5.6,5.1,15.4,22.3,14.7,23.8
+Placer County, California,393149,11.6,6.4,6.4,16.1,26.4,13.5,17.2
+Pulaski County, Arkansas,392680,13.1,6.5,5.9,21.1,24.9,13.1,13.7
+Orleans Parish, Louisiana,391006,10.8,6,5.5,24.1,25.6,13.4,13.2
+Butler County, Ohio,382378,11.8,7.6,7.8,20.1,25.1,13,13
+Orange County, New York,381951,13.2,7.7,7.7,19.2,25.6,12.8,12.2
+Lane County, Oregon,379611,9.7,5.7,6.3,22,23.7,13.1,17.5
+Forsyth County, North Carolina,379099,11.9,7.1,7.2,19.7,25.1,13.1,14
+Collier County, Florida,378488,8.4,5.6,5.3,13.9,21,13.5,27.5
+Allen County, Indiana,375351,14,7.4,6.8,20.7,24.4,12.4,12.9
+Stark County, Ohio,371574,11.7,6,6.3,17.7,24.3,14.6,16.7
+Washtenaw County, Michigan,370963,9.7,5.4,9.1,27.5,23,11.3,12.3
+Brazoria County, Texas,370200,14.4,7.6,7,19,28.7,11.5,10.8
+Mercer County, New Jersey,369811,11.1,6.4,7.2,20.5,26.6,13.1,13.2
+Lehigh County, Pennsylvania,368100,12.1,6.7,6.3,19.9,25.2,12.9,14.1
+Osceola County, Florida,367990,12.9,7.2,7.3,20.6,28,10.7,11.9
+Madison County, Alabama,366519,12.2,5.8,6.6,20.6,25.7,14,13.7
+Hamilton County, Tennessee,364286,11.5,5.8,6.1,20.6,25.1,13.5,15.3
+Nueces County, Texas,362265,13.4,7,7.5,21.1,24.3,12.2,13
+Marion County, Florida,359977,9.9,5.2,5.7,14.7,21.5,14.1,25.5
+Lake County, Florida,356495,9.8,6,5.5,15.5,22.8,13.7,24.1
+Bell County, Texas,355642,15.9,7.7,7,24.9,24,9.8,10
+Anoka County, Minnesota,353813,12.5,7.2,6.4,18.3,27.4,14,12.9
+Davis County, Utah,351713,17.3,9.7,7.9,20.5,25.3,9.3,9.3
+Westmoreland County, Pennsylvania,350611,9.4,5.4,5.5,15.8,24.7,16.4,19.6
+Larimer County, Colorado,350518,10.3,5.9,7.3,25.1,23.3,12.5,14.1
+Chesterfield County, Virginia,348556,12.6,6.9,7,18.3,27.3,13.2,13.7
+Marion County, Oregon,346868,12.9,7.5,7,20.5,24.5,12.3,13.6
+Horry County, South Carolina,344147,9.4,5.3,5.8,16.7,23,15.5,22.5
+Douglas County, Colorado,342776,12.9,7.9,7.6,16.1,31.1,12.7,10.6
+Galveston County, Texas,337890,12.7,7.3,6.6,19.4,26.2,13.3,13.1
+Cumberland County, North Carolina,332330,13.9,6.8,7,27,22.6,10.6,11
+Somerset County, New Jersey,331164,10.4,7.4,6.4,17.1,28.4,14.8,13.4
+Hamilton County, Indiana,330086,13.9,8.6,6.7,16.7,30.1,11.5,11
+Henrico County, Virginia,329261,12.7,6.1,6.1,20,26.9,12.8,13.4
+Boulder County, Colorado,326078,9.7,5.8,8.1,24.2,25.3,12.8,12.3
+Rockland County, New York,325695,15.6,7.9,7.3,18,23.4,12.1,13.3
+Rutherford County, Tennessee,324890,14.1,6.5,7.3,23.7,27.3,10.8,9.5
+Fayette County, Kentucky,323780,12,5.6,6.4,26.2,24.8,11.7,11.9
+Howard County, Maryland,323196,12.6,7.3,6.6,17.9,28.7,13.1,12.7
+St. Lucie County, Florida,321128,10.4,5.8,5.2,16.7,23.7,14.2,21.7
+San Juan Municipio, Puerto Rico,320967,9.1,4.7,6.2,19.1,24.5,13.5,19.2
+Luzerne County, Pennsylvania,317646,9.8,6.4,6.2,18.7,25,14,17.2
+Lancaster County, Nebraska,317272,12.6,6.7,7.4,24.9,23.3,11.3,12.2
+Durham County, North Carolina,316739,12,5.6,6.1,25.2,26.4,11.5,11.9
+Escambia County, Florida,315534,10.9,6.8,6.8,22.2,22.9,13.6,14.9
+Weld County, Colorado,314305,14.6,7.5,7.2,21.3,25.7,11.5,10.9
+Spartanburg County, South Carolina,313888,11.9,7.2,6.7,20.2,25.1,12.9,14.5
+Lorain County, Ohio,309461,11.7,6.4,6.5,17.3,25.4,14.3,16.1
+Rockingham County, New Hampshire,309176,9.5,6.2,5.8,17.2,27,16.6,15.7
+McHenry County, Illinois,308570,11.4,7.5,7.1,16.9,27.9,14.7,12.8
+Lubbock County, Texas,307412,13.6,6.3,8.7,26.5,22.1,10.6,10.8
+Albany County, New York,307117,9.3,5.6,7.8,23.5,23.7,13,14.8
+Northampton County, Pennsylvania,304807,10.2,6,7.1,18.4,25,14.4,16.2
+St. Louis city, Missouri,302838,10.9,5.4,4.4,27.4,24.7,13.3,11.9
+Lexington County, South Carolina,295032,12.3,7,6.1,18.9,26.5,13.4,14.1
+Dutchess County, New York,293718,9.6,5.5,7.3,19.3,25.7,15.2,15.3
+Cumberland County, Maine,293557,10.1,5.1,5.8,19.6,26.1,15,16.1
+Ingham County, Michigan,292735,11,5.4,9.7,26.9,21.9,11.2,11.6
+Leon County, Florida,292502,10.3,5.3,8.9,30.2,21.1,11.1,12.1
+Greene County, Missouri,291923,11.5,6,6.7,23.9,23.4,11.9,14.5
+Anchorage Municipality, Alaska,291538,14.2,6.5,6.4,23.8,26,11.9,10.2
+Gloucester County, New Jersey,291408,11.1,6.7,6.9,18.5,26.7,14.1,13.9
+Ottawa County, Michigan,290494,13.3,6.6,8.4,21.4,23.4,12,13.2
+Clayton County, Georgia,289615,16.5,7,7.4,22.5,26.4,11.1,8.7
+Chatham County, Georgia,289195,12.1,5.7,6.5,24.1,24.1,12.3,13.6
+Thurston County, Washington,286419,11.6,6.3,5.7,21,25.1,13.2,15.3
+Winnebago County, Illinois,284081,12.5,6.8,6.5,18.4,24.5,13.8,15.2
+San Luis Obispo County, California,284010,9.1,5.3,7.9,22.4,21.4,13.7,18
+Cleveland County, Oklahoma,281669,11.8,6,7.6,25.6,24.2,11.5,11.9
+Dauphin County, Pennsylvania,277097,12.2,6.5,5.9,19.5,24.9,14,14.6
+Webb County, Texas,275910,17.6,9.7,9.1,21.5,24,8.6,8.5
+Merced County, California,274765,15.6,8.8,8.6,22.1,23.7,10,10
+Santa Cruz County, California,274255,10.4,5.3,8.7,22,23.8,13.4,15.1
+York County, South Carolina,274118,13.3,6.8,6.8,18.1,27.9,12.6,13.3
+Benton County, Arkansas,272608,14.1,7.7,6.8,20.5,26.8,10.8,11.6
+Erie County, Pennsylvania,272061,11.3,6.2,7,19.7,23.6,14.2,15.4
+St. Joseph County, Indiana,270771,12.8,6.9,7.4,20.6,23.6,12.7,13.5
+Alachua County, Florida,269956,10.8,4.5,8.4,30.7,20.8,10.9,12.2
+Kitsap County, Washington,269805,11.7,5.4,5.1,22.3,23.9,13.9,16.5
+New London County, Connecticut,266784,9.6,6.2,6,20.5,24.7,15,15.9
+Atlantic County, New Jersey,265429,11.5,6,6.3,18.2,25.1,15.1,16
+Kalamazoo County, Michigan,264870,11.7,6.5,7,25.6,22.6,11.7,13.3
+Madison County, Illinois,264461,12.1,5.9,6.3,19.1,24.9,14.4,15.3
+Brown County, Wisconsin,263378,12.9,7,6.8,19.3,25.9,13.1,13.3
+St. Clair County, Illinois,261059,11.9,7.6,6.2,19.1,25.5,14.1,13.9
+Marin County, California,259666,9.3,6.8,5.6,13,27.7,15.2,20
+Washington County, Minnesota,259201,12.8,7.2,6.6,16.9,27.6,14,13.3
+Buncombe County, North Carolina,259103,9.9,5.3,5.2,19.2,26.4,14.1,17.1
+St. Tammany Parish, Louisiana,258111,11.7,8,6.6,16.6,26.1,14.2,15.1
+Weber County, Utah,256359,15.6,7.9,7.3,22,24.8,10.9,10.2
+Frederick County, Maryland,255648,12.5,6.5,6.8,18.8,27.4,13.6,12.6
+Jefferson County, Texas,255001,13,7.4,6.3,21.4,25,12.7,12.3
+McLennan County, Texas,254607,13,7.5,8.2,23.6,22.1,11.2,12.6
+St. Johns County, Florida,254261,10.4,7.3,7.6,12.9,27.3,14.3,18.5
+Cherokee County, Georgia,254149,12.3,7.7,7,17.8,28.6,12.4,13.3
+Harford County, Maryland,253956,11.9,6.2,6.2,18.2,26.9,14,14.6
+Yakima County, Washington,251446,16.6,8.4,7.6,20.1,22.8,11,12.2
+Cumberland County, Pennsylvania,251423,10.8,6,6.4,19.9,24.8,13.6,16.1
+Clay County, Missouri,246365,12.6,7.4,6.5,20.3,26.7,12.4,12.8
+Norfolk city, Virginia,244076,11.5,5.4,7,32.6,21.3,10.9,9.6
+Caddo Parish, Louisiana,242922,12.6,7.4,5.7,20.2,23.5,13.4,15
+Lafayette Parish, Louisiana,242782,13.6,6.2,6.9,22.3,25.3,12.5,11.7
+Chesapeake city, Virginia,242634,13.4,6.5,6.6,20.2,26.7,13.3,11.9
+Arlington County, Virginia,237521,11,4.7,3.8,31.1,29,9.9,9.1
+Hinds County, Mississippi,237085,12.5,7.5,7.6,22.2,23.6,12.5,12.4
+Washington County, Arkansas,236961,13.7,6.5,8.2,26.3,23.8,10.1,10
+Forsyth County, Georgia,236612,13.7,8.6,7.5,14.4,33,10.8,11.4
+Union County, North Carolina,235908,12.3,9.1,8.6,15.7,29.7,11.9,11.4
+New Hanover County, North Carolina,232274,9.7,5.5,6.4,23.3,24.5,12.8,15.8
+Warren County, Ohio,232173,11.1,8.7,7.2,17.1,28.3,13.3,12.5
+Yavapai County, Arizona,231993,8.3,4.9,5.1,13.4,19.3,17.4,28.6
+Williamson County, Tennessee,231729,13.4,8.6,8,13.8,30.3,12.6,12.4
+Butte County, California,231256,11,5.7,7.3,22.9,21.8,12.7,16.6
+Lake County, Ohio,230514,10.2,5.9,5.9,17.2,25.3,15.4,17.6
+Smith County, Texas,230221,13.6,6.9,7.1,20,23.7,12.3,14.9
+Henry County, Georgia,230220,13.2,7.3,7.3,18.7,29.9,11.9,9.9
+Saratoga County, New York,230163,10.4,5.8,6.8,17.6,27.3,14.4,16
+Mahoning County, Ohio,229642,10.7,5.3,7,17.5,23.3,15.3,17.4
+Oneida County, New York,229577,11.6,6.3,6.4,19.3,23.7,14.3,15.5
+Sussex County, Delaware,229286,9.4,6,4.5,14.6,21.3,16.4,25.4
+Richmond city, Virginia,228783,9.9,4.8,6.4,30.6,22.9,12.3,11.1
+Brazos County, Texas,226758,11.7,5.9,10,34.8,20,8.3,8.6
+Linn County, Iowa,225909,12.5,6.8,6.7,20.1,25.3,12.5,14
+Montgomery County, Alabama,225763,13.1,6.4,6.7,21.4,24.7,12.6,13.5
+Whatcom County, Washington,225685,10.9,5.8,6.9,23.5,22.9,12.5,15.4
+Jefferson County, Missouri,224347,11.7,7.3,6,18.2,26.7,15,13.8
+Canyon County, Idaho,223499,15.2,8,7.7,20.1,24.2,10.6,12.8
+Gaston County, North Carolina,222846,12.6,5.9,6.4,19,27.1,13.2,14.2
+Hays County, Texas,222631,12.5,6.4,8,27.4,24.5,10,10.3
+Berkeley County, South Carolina,221091,14.3,5.9,6.6,21.2,25.9,12.2,12.8
+Yolo County, California,220408,11.5,5.9,10.1,27.4,22.3,10.3,10.8
+Jackson County, Oregon,219564,11.1,5.6,5.3,18.7,23,14,19.4
+Baldwin County, Alabama,218022,9.3,8.3,6.2,15.6,25.7,14.5,18.7
+Doña Ana County, New Mexico,217522,13.2,7.1,7.6,23.3,21.7,11.1,14.5
+Clay County, Florida,216072,11.9,7.4,6.7,17.7,27,13.4,14.9
+Shelby County, Alabama,215707,11.6,6.8,6.7,18.1,28.4,13,14
+Barnstable County, Massachusetts,213413,7.4,4.8,5,14.1,20.4,17.6,27.1
+Yuma County, Arizona,212128,13.8,7.3,7,21.8,21.5,9.7,17.4
+Cabarrus County, North Carolina,211342,13,7.9,7.3,17.9,29,11.6,11.9
+Lackawanna County, Pennsylvania,210793,10.8,6,6.6,18.1,24.3,14.3,16.9
+Niagara County, New York,210433,10,6.3,6,18.1,24.6,16.1,16.1
+Champaign County, Illinois,209983,10.2,5.7,11.2,29.1,20.2,11,10.8
+Mohave County, Arizona,209550,9.4,4.7,4.4,15.1,19.8,16.2,27.7
+Tuscaloosa County, Alabama,208911,11.2,6,10.7,24.4,23,11.4,11.9
+Washington County, Pennsylvania,207346,10.8,5.3,6,17.2,24.8,15.6,18.2
+Okaloosa County, Florida,207269,12.4,7,5.4,22.2,23.6,13.1,15.2
+Harrison County, Mississippi,206650,14.1,6,6.1,20.9,25,12.9,13.6
+York County, Maine,206229,9.6,6,5.4,16.9,25.2,16.4,18.3
+Montgomery County, Tennessee,205950,15.5,7.2,6.8,27.3,24.4,9.7,7.9
+Elkhart County, Indiana,205560,14.7,8.3,6.9,19.4,24.2,12,12.5
+Clermont County, Ohio,205466,13.1,6,6.1,18.2,26.1,14.4,14.5
+Delaware County, Ohio,204826,13.4,8.2,7.4,15.4,29.8,12.3,12.1
+Calcasieu Parish, Louisiana,203112,14.4,6.5,6.2,20.9,24,13,13.3
+Johnston County, North Carolina,202675,13.3,7.9,6.6,17.8,29,11.8,12
+Hall County, Georgia,202148,13.3,7.5,7.8,19.4,25.1,12.1,13.3
+Benton County, Washington,201877,14.6,7.5,7.2,19.4,24.2,12.1,13.1
+Richmond County, Georgia,201554,12.5,6.5,7.3,24.3,23,12.4,12.6
+Hawaii County, Hawaii,200983,12.5,5.8,5.4,17,23.4,14.8,19.1
+Anderson County, South Carolina,200482,12,6.7,6.7,18.2,25,13.5,16.4
+St. Louis County, Minnesota,199754,10.2,5.6,6.8,20.7,22.5,14.9,16.5
+Trumbull County, Ohio,198627,10.5,6.3,5.7,17,23.8,15,18.5
+Onslow County, North Carolina,197683,15.7,6.2,7.7,34.4,18.8,8,8.3
+Racine County, Wisconsin,196584,12.1,6.9,6.3,18,25.6,14.6,14.6
+Sangamon County, Illinois,195348,11.5,6.6,6.4,17.9,25.5,14.3,15.4
+Muscogee County, Georgia,194160,14,7,6.5,23.4,24.1,11.6,11.5
+Tippecanoe County, Indiana,193048,11.1,5.9,10.9,30.7,20.3,9.6,10
+Minnehaha County, South Dakota,192876,14.5,7,6.4,21.2,25.5,12.3,11.2
+Deschutes County, Oregon,191996,10.4,6.3,5.4,16.9,27,13.9,17.7
+Broome County, New York,191659,10.7,5.2,7.9,20.8,22,14.3,15.9
+Livingston County, Michigan,191224,10.5,6.6,6.7,16.3,26.6,15.9,15.8
+Hernando County, Florida,190865,9.3,5.6,5.4,14.7,22.9,14.4,24.1
+Saginaw County, Michigan,190800,11.2,6.4,7,18.6,23.5,14,16.5
+El Dorado County, California,190678,9.3,6.7,6,14.7,24.8,17.3,18.8
+Beaufort County, South Carolina,188715,10.3,5.3,6,17.4,20,13.6,25.1
+Butler County, Pennsylvania,187888,9.9,6.5,6.4,17.3,25.7,15.7,15.6
+Outagamie County, Wisconsin,187365,13.8,5.8,6,20,26,13.6,13
+Sumner County, Tennessee,187149,13,6.6,6.1,17.4,27.6,13.6,13.9
+Bay County, Florida,185287,12.5,5.5,5.9,19.3,25,14.9,14.9
+Charlotte County, Florida,184998,6.5,3.3,3.8,11.3,17.6,17.4,34.3
+Sarpy County, Nebraska,184459,15.2,7.7,7,20.5,26.7,10.9,10.5
+DeSoto County, Mississippi,182001,12.4,8.4,7.4,19.1,28.4,11.7,11.5
+Imperial County, California,181827,14.7,8.7,7.9,22.1,23.2,10.4,11.4
+Cass County, North Dakota,181516,14.2,5.5,6.3,27.9,23.6,10.5,10.1
+Litchfield County, Connecticut,181111,9.3,5.1,5.7,15.7,25.5,17.7,18.5
+Vanderburgh County, Indiana,180974,12,6.4,6.2,20.9,23.9,13.9,14.1
+Peoria County, Illinois,180621,12.8,6.9,6.5,19.9,24.1,13.1,14.2
+Kanawha County, West Virginia,180454,11.2,4.9,5.5,17.8,24.4,15.4,18.3
+Shasta County, California,180040,12.1,5.7,5.8,18.2,22.7,14.9,18.3
+Boone County, Missouri,180005,11.7,5.7,8.9,29.8,21.2,10.5,10.5
+Pitt County, North Carolina,179914,11.4,6.4,8.6,26.6,23,10.9,11.8
+Ellis County, Texas,179436,14.4,7.4,7.4,19.1,26.7,12.3,11.5
+Santa Rosa County, Florida,179349,11.5,6.5,5.9,19.5,26.6,14,14.7
+Medina County, Ohio,179146,11.1,6.9,6.6,16.1,27,14.3,16.3
+Newport News city, Virginia,178626,12.9,6.5,7.5,24.6,23.3,11.9,12
+Ulster County, New York,178599,8.9,5.5,5.6,19.8,25.2,15.4,17.2
+Kent County, Delaware,178550,11.9,7.1,7,20.1,24,13.2,15
+Iredell County, North Carolina,178435,11.4,7.5,6.2,17.5,27.9,13.9,14.2
+Shawnee County, Kansas,177499,12.3,7.2,6.8,17.7,24.3,13.3,16.4
+Licking County, Ohio,175769,12.8,6.3,6.8,17.7,25.9,14.1,14.3
+Muskegon County, Michigan,173588,12.3,6.7,6.2,19.5,24.1,14.2,15
+Scott County, Iowa,173283,13.2,7,6.3,18.8,25.5,13.4,14.1
+McLean County, Illinois,172828,12.1,5.6,8.7,25.3,23.5,11.6,11.2
+Midland County, Texas,172578,16.3,8.1,6.5,23.6,24.5,10.4,9.2
+Washington County, Utah,171700,13.9,7.6,7.1,17.8,21.1,10.7,19
+Johnson County, Texas,171361,14.9,6.7,6.8,18.1,26.9,12.7,12.9
+Winnebago County, Wisconsin,171020,11.1,5.8,6.9,21.8,24.3,13.8,13.8
+Bayamón Municipio, Puerto Rico,170480,8.3,5.5,6.1,20.4,24.4,13.3,18.5
+Porter County, Indiana,169594,11.5,6.7,6.8,18.8,26,14.2,14.4
+Monroe County, Pennsylvania,169507,9.7,5.8,8.1,18.8,24.7,16.4,15.1
+Aiken County, South Carolina,169401,12.1,6,6.5,17.7,23.9,14.5,17.1
+Kenosha County, Wisconsin,169290,11,7.3,7.7,19.2,26.7,14.2,12
+Carroll County, Maryland,168429,10.6,6.6,7.5,17.2,26.2,15.5,14.3
+Greene County, Ohio,167995,10.6,6.3,8.1,21.1,23.2,13.4,15.9
+Pueblo County, Colorado,167529,11.4,6.6,7.3,18.9,24.1,13.3,16.1
+Maui County, Hawaii,167218,11.7,6.4,5.9,16.9,26.8,14.1,15.9
+Hendricks County, Indiana,167009,14,6.3,6.8,17.5,29.4,12.2,12.6
+Davidson County, North Carolina,166614,11.5,6.5,5.8,17.3,26.4,14.4,16.4
+Alamance County, North Carolina,166436,12.1,6.1,8.4,18.4,24.8,13.1,15.1
+Kenton County, Kentucky,166051,14.9,5.4,5.9,21.2,24.8,13.4,13
+Wyandotte County, Kansas,165324,16.2,7.7,6.4,20.5,25.1,11.8,11.4
+Beaver County, Pennsylvania,164742,10.6,5.4,5,17,24.2,16.2,18.7
+Chittenden County, Vermont,164572,9,5.6,8.5,25,23.3,12.7,14
+Paulding County, Georgia,164044,13.1,8.4,7.5,18.8,30.2,11.7,9.5
+Lee County, Alabama,163941,10.1,8,8.6,26.9,23.5,10.7,11
+Kent County, Rhode Island,163861,10,5.1,5.2,18.8,26.6,15.4,16.2
+Guadalupe County, Texas,163694,13.9,6.8,8.2,18.1,27.6,12.1,12.4
+Rock County, Wisconsin,163129,12.3,6.5,6.8,18.7,25,14,14.7
+Portage County, Ohio,162927,10.3,4.5,8.5,23,23.4,13.8,15
+Centre County, Pennsylvania,162805,7.9,4.4,10.2,31,21,11.4,12.3
+Middlesex County, Connecticut,162682,9.7,4.5,6,18,25.7,16.2,17.3
+Ector County, Texas,162124,17.8,7.9,7.7,23.5,23.7,10.2,8.6
+Kootenai County, Idaho,161505,12.8,6.2,5.7,19,23.9,13.6,17.3
+Charles County, Maryland,161503,12.8,6.3,6.9,19.7,28.4,13.5,10.9
+Hampshire County, Massachusetts,161355,6.5,4.9,11.7,24.4,21.8,13.5,15.5
+Martin County, Florida,160912,7.4,5.9,5.4,13.9,20.8,15.3,26.3
+Dorchester County, South Carolina,160647,14.1,6.1,7.3,18.4,27.5,12.6,12.7
+Alexandria city, Virginia,160530,12,4,4.4,25.2,31.9,10.3,10.3
+Yellowstone County, Montana,160137,12.4,7.4,5.8,19.6,24.2,13.5,14.5
+Rensselaer County, New York,159442,10.2,5.8,7.2,21.1,24.6,14.5,14.3
+St. Clair County, Michigan,159337,10.2,6.4,6.3,16.3,26,16,17.1
+Stearns County, Minnesota,159256,12.5,6.9,8.3,22.5,22.9,11.9,12.9
+Jackson County, Michigan,158823,10.6,6.6,6.7,18.8,25,14.3,16
+Catawba County, North Carolina,158652,11,7.3,6.4,17.5,26,14.2,15.8
+Madera County, California,157672,15.1,8,7.3,20.4,24.3,10.9,12.4
+Sullivan County, Tennessee,157668,9.8,6.3,5.6,16.8,25.3,14.1,19.7
+Indian River County, Florida,157413,9.9,4,4.3,12.1,20.6,16.5,28.1
+Olmsted County, Minnesota,156277,13.3,7,6.1,19.8,25.3,13,13.3
+Johnson County, Indiana,156225,13.1,7.9,6.3,19.7,26.4,12,13.2
+Fairfield County, Ohio,155782,12.2,7,7.4,17.3,27,13.2,14.4
+Houston County, Georgia,155469,12.9,7.9,6.5,20.6,27.9,12.4,10.5
+Schenectady County, New York,155350,11,6.7,6.8,19,25.5,13.7,14.6
+Franklin County, Pennsylvania,154835,11.3,7.3,6.1,17.8,24.8,13.3,16.8
+Ouachita Parish, Louisiana,154475,14.6,6.4,7.3,20.9,23.7,12.3,13.4
+Columbia County, Georgia,154291,12.9,8.2,7.3,19.1,26.9,11.7,12.5
+Berrien County, Michigan,154141,11.7,6.4,6.4,17,24.1,14.6,16.7
+Rankin County, Mississippi,153902,11.4,7.4,5.9,20.1,27.7,12.2,13.8
+Mesa County, Colorado,153207,12.7,5.6,6.9,18.7,23.6,13.8,16.2
+Bibb County, Georgia,153095,13.2,7.3,6.7,21.3,23.5,12.4,13.8
+Kings County, California,151366,15.1,7.7,7.1,24.5,25.9,9.6,9.3
+Johnson County, Iowa,151260,11.3,5.8,8,31,22.4,9.9,10.3
+Merrimack County, New Hampshire,151132,9.2,6.1,6.3,18.6,25.5,15.4,16.2
+Penobscot County, Maine,151096,9.4,5,6.9,20.2,24.9,15.2,15.9
+Cumberland County, New Jersey,150972,12.2,7.4,6.4,19.8,26.6,12.2,13.9
+Washington County, Maryland,150926,11,7.1,5.6,19.6,26.5,13,15.5
+Tolland County, Connecticut,150921,8.5,5.5,9.7,23.7,22.9,13.6,14
+Monroe County, Michigan,150439,11.2,6.1,6.3,17.8,24.8,15.5,15.8
+Santa Fe County, New Mexico,150056,9,5.7,5.6,16,23.9,15.5,22.5
+Stafford County, Virginia,149960,13.5,8,7.4,20.3,28.8,11.9,9.8
+Comal County, Texas,148373,12.3,6.2,6.7,16.8,25.5,14.6,15.6
+Citrus County, Florida,147929,7.9,4.2,4.4,11.9,18.6,16.6,31.8
+Carolina Municipio, Puerto Rico,147661,9.2,4.9,6.3,19,25.7,12.2,19.5
+Scott County, Minnesota,147381,14.7,8.1,7,17.5,29.8,11.8,9.7
+Monroe County, Indiana,146917,8.5,4.2,12.1,32.2,19.8,10.2,10.7
+Orange County, North Carolina,146027,9.4,7,10.1,23,24.2,12.1,13.5
+Coweta County, Georgia,145864,11,6.9,9,19.7,26.8,12.3,13.2
+Douglas County, Georgia,145331,12.6,8.2,8.1,18.3,29.2,11.7,10.9
+Sandoval County, New Mexico,145179,11.1,7.7,6.3,18.1,25.2,13.9,16.3
+Canadian County, Oklahoma,144447,14.3,7.9,6.3,20.6,26.3,11.6,11.2
+Rock Island County, Illinois,143477,12.1,6.4,6.8,17.3,24.7,13.8,16.4
+Randolph County, North Carolina,143351,11.5,6.9,6,17.6,25.9,14.3,15.9
+Jackson County, Mississippi,143277,10.4,9,7,18.3,26.6,13,15.3
+Coconino County, Arizona,142854,10.4,6.8,11.9,25.8,21.1,11.4,11.4
+Schuylkill County, Pennsylvania,142067,9.3,6.9,5.5,17.8,25.6,14.7,17.4
+Lebanon County, Pennsylvania,141314,11.8,7,6.6,16.7,25.1,13.2,16.6
+Rowan County, North Carolina,141262,10.9,7,7.8,16.8,26.5,13.5,15.6
+Sussex County, New Jersey,140799,9.7,6.1,6.5,17.1,26.5,17.4,15.5
+Wilson County, Tennessee,140625,12.9,6.7,6.7,16.1,28.6,13,14.7
+Livingston Parish, Louisiana,139567,13.7,7.6,6.6,19.9,27.3,11.4,12.4
+Napa County, California,139417,9.7,7.2,6.7,18.7,25.1,13.4,17.3
+Parker County, Texas,138371,12.8,7.3,7.6,17.3,25.8,13.6,14
+Florence County, South Carolina,138159,12.1,7.8,7,18.6,24.9,12.8,15.5
+Taylor County, Texas,137640,13.4,7.6,8.3,23.7,21.7,11.3,12.2
+Brunswick County, North Carolina,136744,7.8,4.4,5.1,12.9,20.4,17.6,30
+Humboldt County, California,136373,11.6,4.7,6.4,22.4,23.9,13.3,15.8
+Wright County, Minnesota,136349,14.1,8.9,7.2,16.9,27.9,12.3,11.5
+Randall County, Texas,136271,12.7,7.1,7.4,20.9,24.5,12.2,13.2
+Washington County, Wisconsin,135693,11.6,6.4,6.2,15.8,26.7,15.3,16.2
+Marathon County, Wisconsin,135428,12.1,6.6,6.3,17.5,25.5,14.6,15.3
+Clark County, Ohio,134585,11.3,7.2,7,17.7,23.9,13.7,16.5
+Calhoun County, Michigan,134487,12.6,6.7,6.4,18.3,24.5,13.7,15.2
+Hampton city, Virginia,134313,10.8,6.3,6.6,24.6,22.6,13.7,13.3
+Spotsylvania County, Virginia,134238,13.1,6.8,7.5,18.5,26.7,13.1,13.3
+Harnett County, North Carolina,134214,14.8,7.2,6.7,21.4,26.3,10.9,11.7
+Grayson County, Texas,133991,11.2,8.1,6.9,18.4,23.8,13.9,15.8
+Tangipahoa Parish, Louisiana,133777,13.4,7.5,6.9,21,24.8,12.2,13.3
+Ponce Municipio, Puerto Rico,133191,10.2,5.4,6.4,19.7,23,13.2,19.6
+Black Hawk County, Iowa,132408,11.8,6.4,7.5,23.9,21.8,12.6,14.1
+Tazewell County, Illinois,132328,12.2,6.4,5.8,17.6,25.1,13.7,15.7
+Wichita County, Texas,132064,12.1,6.7,8.7,23.3,22.3,12.3,12.7
+Robeson County, North Carolina,131831,13.8,6.8,7.6,19.4,24.2,12.9,13.3
+Cambria County, Pennsylvania,131730,9.3,6.3,6.5,16.5,23.4,15.6,19.2
+Boone County, Kentucky,131533,13.5,7.4,7.3,19.1,27,12.5,12.1
+Blount County, Tennessee,131349,11.6,4.9,6.5,17,25.1,14.3,18.8
+Warren County, Kentucky,131264,11.9,7.2,9.3,23.8,23.5,11.1,12
+Wood County, Ohio,130696,11,5.6,8.8,24.3,22.1,12.7,13.2
+Rapides Parish, Louisiana,130562,14.1,6.3,7,18.9,24.2,13.2,14.7
+Fayette County, Pennsylvania,130441,10.6,5.3,4.9,17.6,24.9,15.4,18.2
+Strafford County, New Hampshire,130090,10.2,4.8,10,22.6,23.9,13.8,12.8
+Madison County, Indiana,129641,11.2,6.8,6.2,19.1,25.1,13.4,16
+Sumter County, Florida,128754,3.2,2.8,2.3,7.4,13.3,14.2,53
+Kaufman County, Texas,128622,14.6,8.3,8.5,18.3,27,11.7,10.4
+Washington County, Tennessee,128607,9.6,6,6.4,21.4,25.1,13.3,16
+Skagit County, Washington,128206,12,6.2,5.5,18.1,23.5,13.9,18.4
+Chautauqua County, New York,127939,10.6,5.8,6.9,18.2,23,15.6,17
+Kendall County, Illinois,127915,16.2,8.5,7.4,17.6,30.2,9.6,9
+Sebastian County, Arkansas,127753,13,6.7,6.8,19.8,24.9,13.1,14.2
+Linn County, Oregon,127335,12,6,5.9,19.6,24,13.2,16.9
+Clarke County, Georgia,127330,9.7,4.7,11.4,33.9,20.6,8,10.5
+Bossier Parish, Louisiana,127185,14.5,6.6,6,22,25,12.1,12.2
+Cache County, Utah,127068,17.8,7.8,9,28.4,19.9,8.1,8.2
+Cochise County, Arizona,126770,12,5.9,6.3,17.5,22.5,13.4,19.9
+Berkshire County, Massachusetts,126348,8.7,4.8,6.3,17.5,23.3,16.3,20.2
+Washington County, Rhode Island,126179,8,4.8,9,18.9,22.5,16.2,18.2
+San Juan County, New Mexico,125043,14,7.8,7.5,18.8,23.6,12.9,13.5
+Pickens County, South Carolina,124937,9.7,5.8,9.1,23.5,23.2,12.1,15.2
+Faulkner County, Arkansas,124806,13.5,5.7,8,25.5,23.9,10.8,11.3
+Hunterdon County, New Jersey,124714,9.5,5.6,6.8,15.1,27.3,17,16.3
+Ascension Parish, Louisiana,124672,14.6,7.7,6.6,19.7,28.4,11.4,10.1
+Caguas Municipio, Puerto Rico,124434,8.5,6,6.5,19.2,26.2,13,17.9
+Gregg County, Texas,123707,12.8,8.7,7,20.2,23.4,12.5,13
+Wayne County, North Carolina,123248,11.7,8.6,5.7,21.2,23.3,13,15
+Blair County, Pennsylvania,122492,11.2,5.1,6.1,17.5,24.8,14.5,18.3
+Kennebec County, Maine,122083,9.5,6.1,5.7,17.8,24.7,15.9,17.5
+Douglas County, Kansas,121436,9.7,5.4,9.2,32.7,20.8,9.7,10.6
+Saline County, Arkansas,121421,11.8,7.1,6.8,18.1,26.1,12.1,16.2
+Richland County, Ohio,121099,11.2,6.5,5.6,17.9,25.2,13.9,16.5
+Jasper County, Missouri,120636,12.8,8.3,6.2,21.1,23.8,12.3,13.6
+Comanche County, Oklahoma,120422,12.6,7.3,6.9,25.3,23.8,11.6,11.1
+Potter County, Texas,119648,15.2,8.3,6.3,22.1,24.8,12,9.9
+Morgan County, Alabama,119089,12.6,6.2,6.6,17.7,25.8,13.8,15
+Missoula County, Montana,118791,9.9,5.5,6.7,26,24.1,12.3,14.1
+La Crosse County, Wisconsin,118230,10.3,6.1,7.8,24.5,22.6,12.7,13.8
+Tom Green County, Texas,118189,12.5,7.8,7.4,23.8,21.7,11.6,13.2
+Carroll County, Georgia,118121,12.4,7.2,8.6,21.9,24.6,11.1,13.2
+Oswego County, New York,117898,10.3,6.4,7.7,20,24.4,14.7,15
+Clark County, Indiana,117360,12,7,5.6,19.7,26.7,13.4,14.5
+Allegan County, Michigan,117327,12.4,7.4,6.4,17.2,25.3,14.3,15.1
+Berkeley County, West Virginia,117123,11.8,6.8,6.5,19.3,27.3,13.3,13.8
+Windham County, Connecticut,117027,9.3,6.1,7.8,19.5,25.9,15.2,13.8
+Bonneville County, Idaho,116854,16.5,9.4,7.2,19.6,23.3,11.2,10.8
+Henderson County, North Carolina,116748,10,5.2,6,13.5,25,14.3,22.8
+Lowndes County, Georgia,116321,14.5,5.9,8.5,26.8,21.9,10,11.1
+Wayne County, Ohio,115967,13.1,7,7.1,18.4,22.7,14.3,15.4
+Sheboygan County, Wisconsin,115456,10.7,7.1,6.6,17.5,25.2,14.9,15.6
+Delaware County, Indiana,114772,11.3,4.1,8.8,25.7,20.8,11.9,14.6
+Calhoun County, Alabama,114277,12.5,5.2,6.5,20.7,22.9,14.2,16.4
+Lycoming County, Pennsylvania,113664,10.4,6.4,7.5,18.4,23.4,14.6,17.2
+Fayette County, Georgia,113459,9.6,8.6,8.3,13.5,26.8,15.3,16.1
+St. Mary's County, Maryland,112664,10.3,9.3,7.9,19.2,27.7,12.3,12.3
+Flagler County, Florida,112067,8.4,5.4,5.4,13.2,21,15,27.2
+Gallatin County, Montana,111876,10.7,6.3,6.9,27.8,23.9,11.5,11.9
+Jefferson County, New York,111755,15,5.7,5.8,26.4,22.3,11,12.3
+Pennington County, South Dakota,111729,11.2,7.1,6.8,19.5,22.7,14.4,15.8
+Terrebonne Parish, Louisiana,111021,13.8,8.1,5.3,20.4,25,12.4,13.6
+Mercer County, Pennsylvania,110683,9.5,6.1,6.7,17.1,23.7,15.3,18
+Navajo County, Arizona,110445,13.8,8.4,7.2,17.4,21.6,13.2,16.3
+Hardin County, Kentucky,110356,12.7,8,6.4,20.9,25.1,12.6,12.9
+Douglas County, Oregon,110283,10.2,5.7,5.6,15.3,22.4,15.6,23.2
+Kankakee County, Illinois,110024,12.1,6.7,7.8,20,23.7,13.1,14.2
+LaPorte County, Indiana,110007,12,5.8,5.7,18.9,25.7,14,16.2
+Ontario County, New York,109864,10.8,5.5,6.2,17.4,25.1,15.2,17.3
+Eaton County, Michigan,109826,10.5,6.4,6.1,18.9,25.1,14.5,16.7
+Newton County, Georgia,109541,13.7,7.6,9.4,16.1,28.6,11.5,12
+LaSalle County, Illinois,109430,11.5,6,6,18.1,24.8,14.6,16.7
+Cowlitz County, Washington,108987,11.7,7.4,6.4,17.5,23.9,13.9,16.8
+Albemarle County, Virginia,108718,10.7,5.9,8.3,21,22.4,12.5,16.6
+Craighead County, Arkansas,108558,14.6,6.5,7.9,23,23.5,10.7,13
+St. Lawrence County, New York,108047,10.7,5.7,9.2,19.6,23.7,13.9,14.7
+Androscoggin County, Maine,107679,11.1,6.4,5.7,18.9,25.4,14.7,16
+Matanuska-Susitna Borough, Alaska,107610,14.1,7.8,7.7,19.4,25.4,13.5,11
+Vigo County, Indiana,107386,10.4,6.3,7.3,24.9,22.7,12.5,14
+Hanover County, Virginia,107239,10.5,7.2,7,16.4,26.2,14.9,15.4
+Yamhill County, Oregon,107002,11.9,6.4,7.5,19.4,25.3,13,14.7
+Bradley County, Tennessee,106727,10.4,7.3,7.1,19.7,25.9,12.8,14.8
+Sumter County, South Carolina,106512,12.3,7.4,6.6,21.1,23.5,12.5,14.7
+Monongalia County, West Virginia,106420,9,5.2,8.2,32,23.3,9.9,10.8
+Bartow County, Georgia,106408,12.3,6.9,7.5,19.7,27,12.9,12.3
+Miami County, Ohio,106222,12.8,6.2,6.3,16.7,24.7,14.1,17.6
+Warren County, New Jersey,105779,9.4,6,6.8,16.7,26.6,16.1,15.4
+Madison County, Mississippi,105630,13.5,7.3,7.6,18.5,26.5,13.5,11.4
+Highlands County, Florida,105424,9.5,4.6,5.9,12.9,18.9,13,29
+Cass County, Missouri,104954,12.8,6.6,7.4,15.8,26.1,14.2,15.3
+Houston County, Alabama,104722,12.1,6.7,6.3,19,24.8,13.1,16.1
+Macon County, Illinois,104712,11.4,6.9,6.6,17.6,23.1,14.1,17.9
+Eau Claire County, Wisconsin,104534,11,5.8,7.6,26.3,21.6,11.9,14.2
+DeKalb County, Illinois,104143,10.6,7.6,8.6,27.9,21.5,11.1,11.3
+Whitfield County, Georgia,104062,13.6,7.1,8.7,18.5,26.5,11.6,12.5
+Bay County, Michigan,103923,11.2,4.9,6.6,17.3,24,15.9,17.2
+Walworth County, Wisconsin,103718,10.1,6.5,7.8,19.4,23.5,15.2,15.2
+Franklin County, Missouri,103670,12.3,6.4,6.3,18.2,24.6,15,15.2
+Carver County, Minnesota,103551,13,8.3,7.7,16.5,29.1,13.1,11.7
+Wicomico County, Maryland,103195,11.8,6.6,8,23,22.3,12.5,14.1
+Fond du Lac County, Wisconsin,103066,11.8,5.8,6,18.2,25.4,14.5,15.5
+Platte County, Missouri,102985,12.1,7.5,5.9,19.1,27.9,12.9,13.3
+Craven County, North Carolina,102912,13.7,5.7,5,22.2,22,12.4,17.4
+Cecil County, Maryland,102826,12.7,5.6,6.6,18.2,26.4,14.7,13.9
+Adams County, Pennsylvania,102811,10,7.1,6.4,16.8,25.1,14.6,17.8
+Tompkins County, New York,102793,8.3,3.8,12.9,29.6,20.4,11.1,11.9
+Columbiana County, Ohio,102665,10.6,6.2,5.8,16.4,24.8,15.6,18.6
+Allen County, Ohio,102663,12.5,6,7.6,19,23.3,14.1,15.6
+Woodbury County, Iowa,102539,14.2,8,6.8,18.8,24,12.7,13.4
+Etowah County, Alabama,102501,12.5,5.5,5.4,18.9,25,13.5,17
+Flathead County, Montana,102106,11.4,6.9,5.6,16.5,24.6,15.6,18.2
+Daviess County, Kentucky,101104,12.9,7.6,6.6,18.6,24.2,13.3,15
+Rockwall County, Texas,100657,13.9,8.4,6.8,16.1,31,11.6,11
+Roanoke city, Virginia,99920,14.2,4.8,4.9,21.4,25.1,12.6,13.9
+Nevada County, California,99696,8.4,6.1,4.3,13.4,23.1,16.9,24.6
+Garland County, Arkansas,99154,10.7,5.6,6.4,17.2,22.1,14.9,20.2
+Montgomery County, Virginia,98985,7.1,4.6,13.1,32.9,19.8,10.2,10.6
+Laramie County, Wyoming,98976,12.7,6.9,6.6,20.1,24.4,13,14.6
+Fairbanks North Star Borough, Alaska,98971,14,6.5,7,27.1,24.4,10.6,9.4
+Putnam County, New York,98892,9.8,5.5,6.8,17.9,26.9,15.8,15.7
+Moore County, North Carolina,98682,11.2,4.8,7.7,15.2,23.6,13.5,20.8
+Lenawee County, Michigan,98266,11,6.5,6.6,18.1,24.4,15,16.3
+Lafourche Parish, Louisiana,98115,12.9,6.9,6.8,19.9,24.8,12.9,14
+Story County, Iowa,98105,9.9,4,12.8,34.5,17.8,9.1,10.4
+Floyd County, Georgia,97927,11.8,7.2,7.4,20.4,24,12.3,15
+Sevier County, Tennessee,97892,10.5,6.6,6.2,17.1,25.3,14.8,17.6
+Cleveland County, North Carolina,97645,11.5,6.4,7.2,17.6,24.4,14.2,16.4
+Madison County, Tennessee,97605,11.6,7.1,6.6,20.4,23.7,13.6,14.7
+Ashtabula County, Ohio,97493,11.8,6.7,5.4,17.3,24.6,15.2,16.7
+Grant County, Washington,97331,15.1,9.4,8,19.8,22.6,10.6,13.1
+Dubuque County, Iowa,96854,12.8,5.6,7.2,19.8,22.3,14.1,15.2
+Sutter County, California,96807,14.5,7.2,6.8,20.6,23.6,12.1,13
+Hunt County, Texas,96493,12,7.9,8.2,18.1,24.7,13.9,14.3
+Limestone County, Alabama,96174,10.9,8.2,7.2,17.4,27.6,13.1,13.8
+Marshall County, Alabama,96109,13.2,7.6,6.5,16.9,25.7,12.8,15.3
+Sherburne County, Minnesota,96036,14.5,7.4,6.5,20.1,28.3,12.2,9.6
+Steuben County, New York,95796,11.8,5.8,6,16.9,24.9,15.3,17.2
+Lancaster County, South Carolina,95380,12.2,7,6,14.7,27,12.5,18.9
+Burleigh County, North Dakota,95273,12.8,6.6,6.2,21.5,24.1,12.8,13.2
+Portsmouth city, Virginia,94632,14.8,4.9,5.5,23.9,23.7,12.4,13.1
+Franklin County, Washington,94347,18.1,9.8,7.6,22.3,24.5,7.9,9
+Maury County, Tennessee,94340,12.1,7.6,5.8,19.1,26.1,13.6,14.2
+Bowie County, Texas,94324,12.1,8,5.6,19.9,25.7,12.4,14.7
+Roanoke County, Virginia,94073,10.1,6,6.3,17.5,25,14.2,18.7
+Geauga County, Ohio,94031,11.1,7,7.4,14.3,24,15.4,18.6
+Nash County, North Carolina,94016,11.6,6.8,5.6,17,25.9,14.5,16.5
+Pottawattamie County, Iowa,93533,12.1,7.3,6.5,18.2,23.9,14.5,15.4
+Walton County, Georgia,93503,13,7.6,7.9,17,26.9,12.6,13.6
+Cabell County, West Virginia,93224,10.5,6,7,22.7,23,12.6,16.4
+Campbell County, Kentucky,93152,12.2,4.8,6.9,22.1,23.9,14.1,13.9
+Grand Traverse County, Michigan,92573,10.1,6.8,5.7,17.5,24.6,15.4,17
+Cape May County, New Jersey,92560,8.1,4.7,4.5,17.3,22.1,17.3,23.2
+Lauderdale County, Alabama,92387,10.1,5.9,6.5,19.9,23.6,13.9,17.6
+Madison County, Kentucky,92368,11,5.7,8,25.8,23.9,11.8,12.2
+Tuscarawas County, Ohio,92176,12.9,5.7,6.3,17.8,23.7,14,17.1
+Benton County, Oregon,92101,7.8,5.2,9.8,30.3,19.4,11.4,14.6
+Victoria County, Texas,92035,12.2,8.9,7.6,19.2,23.8,12.1,14.3
+Calvert County, Maryland,92003,10.3,8.1,6.6,18.1,26.9,15.4,13
+Rogers County, Oklahoma,91984,12.4,6.6,6.8,18.4,25.7,13.8,14.6
+Dougherty County, Georgia,91243,13.5,6.1,9.2,21.1,22.7,12,13.1
+Suffolk city, Virginia,91185,12.8,7.3,5.7,19.3,26.7,13.7,13
+Northumberland County, Pennsylvania,91083,11.2,4.8,5.3,17.3,24.9,14.9,18.1
+Rockingham County, North Carolina,90690,9.5,7,6.4,17.2,23.8,15.5,18
+Rockdale County, Georgia,90594,13.3,7,7.5,18.8,25.5,13.7,13
+Burke County, North Carolina,90382,10.2,5.5,5.3,17.1,26.3,15.7,18.1
+Dallas County, Iowa,90180,15.9,7.8,6.7,19.5,28.9,9.3,10
+Wayne County, New York,90064,10.7,7.2,5.6,16.8,24.5,16.1,16.8
+Grafton County, New Hampshire,89786,8.7,4.4,8.9,20.2,21.6,15.4,18.3
+St. Croix County, Wisconsin,89694,11.7,8.6,7,16.2,28.2,14.3,12.5
+Ozaukee County, Wisconsin,89147,10.6,6.4,6.6,15.8,24.9,15.8,17.8
+St. Clair County, Alabama,88690,13,6.4,5.9,17.7,26.6,13.8,15.2
+Buchanan County, Missouri,88571,11.7,7.2,5.5,20.3,24.8,13.7,14.6
+Frederick County, Virginia,88355,11.9,7.1,6.6,16.8,26.6,13.7,15.2
+Lapeer County, Michigan,88028,9.3,7.1,6.5,16.1,26.1,16.8,16.6
+Dodge County, Wisconsin,87847,9.1,6.6,5.9,17.1,27.4,16.3,14.7
+Mendocino County, California,87606,12.3,5.5,5.9,15.9,23.6,14.9,20.1
+Josephine County, Oregon,87393,10,5.7,5.8,15.3,21.5,15.5,23.9
+Bannock County, Idaho,87138,13.9,6.9,8,22.9,22.4,11.8,12.3
+Angelina County, Texas,87092,12.3,8.9,6.9,17.8,25.1,13,13.7
+Christian County, Missouri,86983,14.5,7.3,6.8,17.8,25.7,12.6,13.3
+Bastrop County, Texas,86976,12.9,7.8,8.5,16.4,25,15.1,13.5
+Orangeburg County, South Carolina,86934,10.6,7.3,6.4,19.9,22.7,13.7,17.6
+Liberty County, Texas,86323,13.9,7.8,7.5,20.6,25.4,12.2,11.9
+Lawrence County, Pennsylvania,86184,9.8,5.9,6.4,16.3,23.9,15.8,19.8
+Muskingum County, Ohio,86183,11.6,7.1,6.3,18.1,25.2,14.1,16
+Twin Falls County, Idaho,86081,13.3,8.8,7.9,19.4,23.5,12,13.6
+Nassau County, Florida,85832,9.2,7.3,5.4,14.7,25.6,15.9,20.6
+Polk County, Oregon,85234,10.6,7.7,7.3,21.6,23.2,11.7,16.1
+Glynn County, Georgia,85219,12.5,5.6,6.1,16.5,25.7,13.7,17.5
+Lee County, Mississippi,85202,14,6.8,7.1,18.6,26.5,12.9,12.9
+Jefferson County, Wisconsin,85129,10.3,6.3,8.4,17.1,25.8,14.8,15.7
+Crawford County, Pennsylvania,85063,10.5,6.4,6.9,17.1,23.5,15,18.6
+Indiana County, Pennsylvania,84501,9.5,4.9,8.6,21.8,21.2,14.6,16.8
+Island County, Washington,84460,9,6,4.5,21.2,20.5,14.3,22.5
+Chemung County, New York,84254,12.9,4.7,5.8,17.5,24.3,15.1,17.5
+Wood County, West Virginia,84203,10.8,6.7,5.6,17.1,25,14.4,18.5
+Guaynabo Municipio, Puerto Rico,83787,7.7,4.9,5,19.5,25.7,14.6,19.5
+Lincoln County, North Carolina,83770,9.2,7.4,6.7,15,29.1,15.4,15.4
+Orange County, Texas,83572,13.1,7.2,6.7,19.5,24,13.5,13.9
+Cullman County, Alabama,83442,12.2,6.3,6.3,17.7,25.1,13.8,17.6
+Midland County, Michigan,83209,11.6,6.5,6.3,17.8,25.1,14,15.9
+St. Landry Parish, Louisiana,82764,14.1,8.4,7.4,18.2,22.7,13.2,14.2
+Bartholomew County, Indiana,82753,13.8,5.7,6.3,20.3,25.3,12.3,15
+Newport County, Rhode Island,82542,7.7,5.5,6.3,19.5,23.3,15.2,20.4
+Howard County, Indiana,82366,12.8,6.2,5.6,17.9,24.5,13.8,16.4
+Henderson County, Texas,82299,11.6,7,5.3,16.9,22.1,15,20.2
+Lynchburg city, Virginia,82126,12.3,5.1,8.7,32.7,16.5,10.2,12.4
+Arecibo Municipio, Puerto Rico,82114,8.5,5.7,6.2,19.1,25.6,12.9,19.9
+Payne County, Oklahoma,82040,10.7,5.4,10.8,31.8,18.3,9.6,11.8
+Caldwell County, North Carolina,82029,11.7,4.6,5.8,17.5,25.3,15.4,17.1
+Elmore County, Alabama,81887,11.8,6.1,6.8,20.7,26.5,13,13.8
+Cascade County, Montana,81643,12.4,6.2,5,21.7,22.8,13.6,16
+Wilson County, North Carolina,81455,12.7,6.4,8.2,16.4,24.1,14,16.3
+Leavenworth County, Kansas,81352,13.7,6.7,6.6,17,27.7,13.4,12.9
+Rockingham County, Virginia,81244,11.9,6.1,7.1,17.6,25,13.6,16.3
+Bullitt County, Kentucky,81069,9.1,7.5,6.9,18.3,28.3,13.7,15
+Barrow County, Georgia,80809,13.7,7.6,6.8,20.1,27.6,11.4,11.4
+Clinton County, New York,80695,9.1,5.3,7.6,22.8,23.8,14.7,14.9
+Wagoner County, Oklahoma,80110,12.6,7.6,6.6,17.9,26.1,13,15
+Talladega County, Alabama,79828,11.1,6,7.1,17.7,26,14,16.5
+Lewis County, Washington,79604,11.2,6.7,6,17.2,23.1,15,18.7
+Clearfield County, Pennsylvania,79388,9.9,5.4,4.9,17.3,26.5,15.5,17.8
+Kosciusko County, Indiana,79344,11.9,7.8,6.2,19.1,25.2,13.3,14.5
+Clinton County, Michigan,79332,10.8,7.5,6.4,18.7,25.4,13.9,15.9
+Natrona County, Wyoming,79115,12.6,7,6.8,20,24.8,13.8,12.9
+Manitowoc County, Wisconsin,79074,11.6,4.9,5.7,15.5,25.6,16.3,17.2
+Putnam County, Tennessee,78843,10.6,5.4,8.1,23,23.8,12.2,14.5
+Cape Girardeau County, Missouri,78753,12.1,6.4,7,23.5,21.9,12.6,14.1
+Bedford County, Virginia,78747,10.4,5.3,6,15.6,24.9,16.6,19
+White County, Arkansas,78727,11.7,6.5,9.7,19.2,25.5,11.7,14
+Oconee County, South Carolina,78374,11,5.2,5.8,17.1,21.2,15.9,21.9
+Yuba County, California,78041,14.4,8.3,7.1,22.4,23,12.8,10.7
+Floyd County, Indiana,77781,11.6,6.6,7.1,18.5,25.5,14.9,13.8
+Umatilla County, Oregon,77516,13.9,7.7,6.7,19.6,24.8,12.1,13.7
+Bulloch County, Georgia,77296,9.7,7.3,13.4,27.5,21,10,9.8
+Cayuga County, New York,77145,11.1,5,6,18.5,25.4,15.5,16.4
+Chelan County, Washington,77036,14.2,5.7,4.8,19.3,23.5,13.9,16.7
+Ross County, Ohio,76931,10.9,5.7,6.4,18.4,27.3,13.9,16.5
+Cattaraugus County, New York,76840,11.3,6.3,6.8,17.2,24.3,15.1,17.1
+Vermilion County, Illinois,76806,12.1,7.6,6.2,17.5,23.1,13.7,16.9
+Cole County, Missouri,76796,11.5,7,6.2,19.7,26,12.7,15.5
+Clallam County, Washington,76737,8.8,5.5,5.1,14,20.7,17.1,24.8
+Cheshire County, New Hampshire,76493,8.4,5.9,8.9,18.8,22.7,15.7,18.1
+Anderson County, Tennessee,76482,11.8,5.7,6.3,17.7,23.8,14.7,18.1
+Valencia County, New Mexico,76456,13.6,6,7,18.1,23.8,13.7,15.6
+James City County, Virginia,76397,10.6,6.1,6.8,14.3,22.5,14.2,22.8
+Hancock County, Indiana,76351,12.1,7.3,5.2,18.2,26.8,13.4,15.4
+Hancock County, Ohio,75930,12.2,5.5,7.2,19.5,24.8,13.9,14.3
+Scioto County, Ohio,75502,12.2,5.5,7.1,18.3,25.1,13.9,15.7
+Sullivan County, New York,75498,11.1,6.3,7,16.1,25.9,14.8,17.3
+Augusta County, Virginia,75457,9,6.9,5.3,16.1,26,15.5,18.7
+Van Buren County, Michigan,75448,12.5,6,6.8,15.8,25.2,15,16.9
+Lauderdale County, Mississippi,75317,13.4,7.6,5.4,19.2,24.4,12.9,14.8
+Forrest County, Mississippi,75036,11.6,6.3,9.4,25.3,22.7,10.8,12.3
+Monroe County, Florida,75027,7.9,4.6,4.9,16.1,27.3,16.5,21.5
+Coryell County, Texas,74808,12.2,7.4,6.5,27.4,27,9.7,9.1
+Toa Baja Municipio, Puerto Rico,74623,8.8,6.1,6.7,19.7,25.9,13.1,17.4
+Erie County, Ohio,74615,10.4,5.9,5.6,17.2,23.9,15.3,18
+Raleigh County, West Virginia,74254,10,7.6,6.1,16.2,25.7,13.5,19.2
+Putnam County, Florida,74163,11.5,6.2,5.8,16.1,22.1,15.1,22.4
+Somerset County, Pennsylvania,73952,9.6,4.8,5.1,16.3,25.9,15.9,19.7
+Grays Harbor County, Washington,73901,10.1,5.2,7.7,15.8,24.2,15,20
+Riley County, Kansas,73703,9.1,4.7,10.3,43.5,15.1,7.9,8.1
+Lonoke County, Arkansas,73657,11.9,9.2,6.6,18.7,28.3,11.9,11.9
+Chatham County, North Carolina,73139,10.4,6.6,4.8,14.4,24.8,14.5,20.6
+Wood County, Wisconsin,73055,11.8,5.7,6,16.3,23.8,15.9,17.9
+Pottawatomie County, Oklahoma,72679,12.2,7.2,7.2,19.4,24.8,13,13.8
+Walker County, Texas,72480,8.3,4.6,7.7,26.4,28.7,11.6,11.3
+McKinley County, New Mexico,72290,13.9,9.6,8.6,20.9,23.2,11.1,10.7
+Kauai County, Hawaii,72133,12.1,6,5.9,16.6,25.1,13.9,18.1
+Mayagüez Municipio, Puerto Rico,71986,8.9,4.4,7.9,22.1,20,12.5,21.3
+Surry County, North Carolina,71948,10.7,6.5,6.3,17.3,25,13.3,18.2
+Apache County, Arizona,71818,14.6,8.2,7.9,18.9,22.3,12.9,13.4
+Christian County, Kentucky,71671,17.5,6.3,6.3,30.3,18.3,8.9,10.7
+Creek County, Oklahoma,71604,13,6.7,6.5,17.2,25.2,13.9,14.9
+DeKalb County, Alabama,71385,11,8.6,7.1,17.9,25,13.3,15
+Walton County, Florida,71375,10.4,6.3,5.6,15.7,26.6,15.1,19.6
+Toa Alta Municipio, Puerto Rico,71094,9.4,6.2,7.1,21,28.6,13.1,11.9
+Robertson County, Tennessee,71012,12.5,7.3,6.5,18.6,26.1,14.7,13.4
+Allegany County, Maryland,70975,9.4,5,7.4,20.3,24.3,13.6,18.3
+Franklin County, Massachusetts,70963,9.9,4.8,4.9,16.7,24.4,17.6,18.6
+Portage County, Wisconsin,70942,10.1,6,8,22.8,22.9,13.6,14.4
+Iberia Parish, Louisiana,70941,12.4,9.2,7.2,18.4,24.3,13.9,13.4
+Madison County, New York,70795,10.1,5.1,9.4,18,23.4,15.5,16.5
+Grand Forks County, North Dakota,70770,12,6.3,7.7,30.6,20.4,10.6,10.9
+Greenwood County, South Carolina,70741,10.6,6.5,8.2,18.1,25.3,12.9,15.9
+Fauquier County, Virginia,70675,10.9,8.1,6.7,17.5,25.5,14.6,15.6
+Isabella County, Michigan,70562,8.8,4.9,11.7,30.5,20.4,10.8,11.4
+Columbia County, Florida,70503,13.7,4.8,6.1,16.9,25.9,14.2,16.1
+Jackson County, Georgia,70422,12.8,7,7.9,18.1,28.2,11.5,12.9
+Morgan County, Indiana,70116,11.9,6.9,6.2,17,25.7,15.5,14.6
+Troup County, Georgia,70034,11.1,9,7.4,20.8,24.8,12.5,12.9
+Tooele County, Utah,69907,15.3,11.7,8.8,18.6,26.9,9.6,8.2
+Lea County, New Mexico,69611,14.3,10.5,9.1,20.8,23.6,10.5,10
+Carteret County, North Carolina,69524,8.8,5.7,5.6,14.5,23.7,16.6,22.8
+Walker County, Georgia,69410,12.4,5.4,6.5,17.5,25.1,14.3,17.1
+Broomfield County, Colorado,69267,11.5,6.6,6.4,20.3,29.5,11.9,12.8
+Greene County, Tennessee,69087,9,6.3,6.1,16.8,25.9,14.6,19.7
+Lewis and Clark County, Montana,68700,10.9,7.4,6.1,17.6,24.6,15,15.8
+Wilkes County, North Carolina,68557,10.8,5.6,5.5,16.8,24.9,14.9,19.5
+Jones County, Mississippi,68461,13.9,6.5,8.2,17.5,24.1,12.4,15.3
+Muskogee County, Oklahoma,68362,12.4,7.5,6.8,18.9,24.8,13,14.4
+Wise County, Texas,68305,12.6,7.6,8.1,16.6,26.1,14.1,13.1
+Shiawassee County, Michigan,68192,11.6,5.3,6.8,17.2,25.4,15.2,16.4
+Jefferson County, Arkansas,68114,12.6,5.5,6.6,19.6,24.8,13.7,14.7
+York County, Virginia,67846,12.5,7.2,7.3,17.5,25.2,13.1,14.7
+Ward County, North Dakota,67744,13.9,6.4,5.5,28.9,22.4,10.3,10.4
+Klamath County, Oregon,67653,12.8,5.4,7.1,18.2,21.6,13.4,19.3
+Franklin County, North Carolina,67560,10.2,7.8,5.6,18.3,26,15,15.8
+Harrison County, West Virginia,67554,10.4,5.9,7,16.9,25.5,14.3,16.9
+Belmont County, Ohio,67505,10,5.9,5.2,17.1,24.6,15.9,18.2
+Blue Earth County, Minnesota,67427,11.8,5.2,8.2,30.2,19.8,10.7,11.7
+Catoosa County, Georgia,67420,9.7,7.3,5.6,19.1,27.3,13.1,16.7
+Aroostook County, Maine,67111,9.8,5.5,5.7,14.6,23.7,16.6,19.9
+Williamson County, Illinois,67056,13,6,5.1,17.3,26,13.8,16.9
+Boone County, Indiana,66999,13.5,8.1,7.4,17,27.4,13.4,10.9
+Laurens County, South Carolina,66994,10.6,7.3,7.1,17.4,25.2,13.6,18.1
+San Patricio County, Texas,66893,14.5,7.3,7.3,19.3,24.4,12,13.7
+Rutherford County, North Carolina,66826,10.8,5,7.6,15.6,24.1,16,19.2
+Darlington County, South Carolina,66802,9.2,9.1,8.1,16.9,23.7,14.1,17.4
+Otero County, New Mexico,66781,13.6,6.2,6.8,21.5,22.4,13.4,14.8
+Butler County, Kansas,66765,11.9,8.6,7.5,17.9,25.2,13.7,13.4
+Harrison County, Texas,66726,12.5,7.3,9,17.5,23.8,13.7,14.6
+St. Francois County, Missouri,66692,9.9,7.3,6.2,19.3,27,13.5,14.7
+Rice County, Minnesota,66523,10.6,7.4,10.3,19.5,23.6,12.9,12.9
+Marquette County, Michigan,66516,11,4.8,6.8,22.9,21.7,13.7,17
+Oldham County, Kentucky,66470,12.6,8.5,7.5,15.5,30,13.1,12
+Spalding County, Georgia,66100,12.9,6.2,7.3,16.8,26.3,12.4,16.2
+Grant County, Indiana,65936,10.4,6.9,6.6,19.2,23.4,14.4,16.6
+Wayne County, Indiana,65936,11.6,6.9,6.2,19.3,23.4,13.7,16.1
+Athens County, Ohio,65818,6.7,5.4,12.6,31.2,19.4,11.6,11.4
+Jefferson County, Ohio,65767,8.9,6.4,5.6,18.3,23.3,15.4,19.7
+Nacogdoches County, Texas,65711,13.2,6.1,10.8,22.6,21.6,11.1,13.2
+Adams County, Illinois,65691,13,6.5,5.1,18.1,23,14.1,17.4
+Kershaw County, South Carolina,65592,11.9,6.8,7.3,13.8,27.6,14.4,16.1
+Mason County, Washington,65507,11.1,5.2,5.2,17.1,22.5,16.2,20.3
+Columbia County, Pennsylvania,65456,9.8,4.6,7.5,21.7,23,14,16.2
+McCracken County, Kentucky,65346,11.8,5.9,5.8,17,24.9,14.2,16.4
+Armstrong County, Pennsylvania,65263,9.9,5.8,5.3,15.7,25,16.5,19
+Marion County, Ohio,65256,12.4,5.4,5.9,19.7,25.1,14.1,14.8
+Chaves County, New Mexico,64689,13.3,7.5,7.9,19.1,23.2,12.2,14.3
+Lake County, California,64382,12.1,5.3,4.7,16.4,22.8,15.8,21.3
+Warren County, New York,64265,10.8,3.4,6,16.1,24.8,16.6,18.8
+Carbon County, Pennsylvania,64227,8.4,7.1,5.4,16,26.2,16.2,18.1
+Trujillo Alto Municipio, Puerto Rico,63746,9.2,5.7,6.2,19.7,26.9,12.9,16.8
+Walker County, Alabama,63711,12.7,5.5,5.9,18.2,24.2,14.5,17.1
+Livingston County, New York,63227,9.3,5,9.6,19.4,23.9,15.3,16
+Salem County, New Jersey,62607,10.6,7.3,5.7,17.5,25.2,14.8,16.5
