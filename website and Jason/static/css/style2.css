@@ -1,0 +1,33 @@
+body {
+    background-color: #f7f7f7;
+    color: #f7f7f7;
+}
+
+.background {
+    background: url("../images/future-road.jpg") center;
+        background-size: 1100px 230px;
+        background-repeat: no-repeat;
+        background-color: #343941;
+        text-align: center;
+}
+
+.navbar{
+    height: 75px;
+}
+
+ul {
+
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+}
+
+ul li a {
+    display: block;
+    text-decoration: none;
+    font-size: 12px;
+    padding: 0 20px;
+}
