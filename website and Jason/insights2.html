@@ -10,6 +10,11 @@
       integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin=""/>
+    <!-- d3 JavaScript -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
     <link rel="stylesheet" href="static/css/style2.css">
 </head>
 <body class="body">
@@ -68,21 +73,30 @@
                                 <label for="country">Enter Country</label>
                                 <input type="text" placeholder="Country" id="country"/>
                             </li>
-                            <li class="list-group-item bg-dark">
-                                <label for="shape">Enter Shape</label>
-                                <input type="text" placeholder="Shape" id="shape"/>
+                            <li class="slidecontainer">
+                                <label for="myRange">Select Value</label>
+                                <input type="range" min="-10" max="10" value="0" class="slider" id="myRange">
+                                <p>Value: <span id="demo"></span>%</p>
                             </li>
                             <li class="list-group-item bg-dark">
                                 <button id="filter-btn" type="button" class="btn btn-light">
-                                    Find a Match!
+                                    Predict
                                 </button>
                             </li>
                         </ul>
                     </form>
                 </div>
             </div>
-        </div>   
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
-        <script src="static/js/app.js"></script>
+        </div>
+        <!-- The div that holds our map -->
+        <div id="mapid"></div>
+        <!-- leaflet Java Script -->
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+        integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+        crossorigin=""></script>   
+        <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script> -->
+        <!-- API key -->
+        <script type="text/javascript" src="js/config.js"></script>
+        <script src="js/regress.js"></script>
 </body> 
 </html>
