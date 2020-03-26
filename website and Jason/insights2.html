@@ -61,14 +61,14 @@
                                 <label for="date">Enter Income</label>
                                 <input type="number" placeholder="$50,000-75,000" id="datetime"/>
                             </li>
-                            <li class="list-group-item bg-dark">
-                                <label for="city"> Family Size</label>
-                                <input type="number" placeholder="0-2" id="city"/>
-                            </li>
-                            <li class="list-group-item bg-dark">
-                                <label for="state">Enter State</label>
-                                <input type="text" placeholder="State" id="state"/>
-                            </li>
+                            <li class="slidecontainer">
+                                <label for="medInc">Median Income</label>
+                                <input type="range" min="-10" max="10" value="0" class="slider" id="medInc">
+                                <p>Value: <span id="medIncOut"></span>%</p>
+                            <li class="slidecontainer">
+                                <label for="medInc">Median Income</label>
+                                <input type="range" min="-10" max="10" value="0" class="slider" id="medInc">
+                                <p>Value: <span id="medIncOut"></span>%</p>
                             <li class="list-group-item bg-dark">
                                 <label for="country">Enter Country</label>
                                 <input type="text" placeholder="Country" id="country"/>
@@ -98,5 +98,6 @@
         <!-- API key -->
         <script type="text/javascript" src="js/config.js"></script>
         <script src="js/regress.js"></script>
+        <script src="js/choro.js"></script>
 </body> 
 </html>
