@@ -51,22 +51,7 @@ let map = L.map("mapid", {
 // which layers are visible.
 L.control.layers(baseMaps, overlays).addTo(map);
 
-counties = d3.json("https://raw.githubusercontent.com/raywhelan01/Housing_Final_Project/Ray/Machine%20Learning/Resources/choro.json")
-
-
-
-function census(data) {
-    let out = {}
-    let row; 
-    for (let i=0; i <data.length; i++) {
-      row = data[i];
-      out[+row.fips] = row;
-    }
-    return out
-} 
-//finalData = censusData;
-//finalData = census(censusData);
-//console.log(finalData)
+choro = d3.json("https://raw.githubusercontent.com/raywhelan01/Housing_Final_Project/Ray/Machine%20Learning/Resources/choro.json")
 
 // the function for setting the style
 function style(feature) {
@@ -114,11 +99,8 @@ function onEachFeature(feature, layer) {
 
 // add the counties to the map, with the style and popup
 // See https://leafletjs.com/examples/geojson/
-//let countyLayer = L.geoJson(counties, {style: style, onEachFeature: onEachFeature}).addTo(map);
 
-
-// Retrieve the Tectonic Plate data.
-counties.then(function(data) {
+choro.then(function(data) {
     console.log(data);
     //Create the GeoJson data
     L.geoJSON(data, {
