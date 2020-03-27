@@ -1,164 +1,73 @@
-var slider = document.getElementById("myRange");
-var output = document.getElementById("demo");
-output.innerHTML = slider.value;
+var occSlide = document.getElementById("occup");
+var occOut = document.getElementById("occupOut");
+occOut.innerHTML = occSlide.value;
 
-slider.oninput = function() {
-  output.innerHTML = this.value;
+occSlide.oninput = function() {
+  occOut.innerHTML = this.value;
 }
 
-// Add console.log to check to see if our code is working.
-console.log("working");
+var empSlide = document.getElementById("unemp");
+var empOut = document.getElementById("unempOut");
+empOut.innerHTML = empSlide.value;
 
-// We create the tile layer that will be the background of our map.
-let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
-	maxZoom: 18,
-	accessToken: API_KEY
-});
-
-// We create the tile layer that will be the background of our map.
-let satelliteStreets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
-	maxZoom: 18,
-	accessToken: API_KEY
-});
-
-let light = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
-	maxZoom: 18,
-	accessToken: API_KEY
-});
-
-// Create a base layer that holds both maps.
-let baseMaps = {
-  "Streets": streets,
-  "Satellite": satelliteStreets,
-  "Light": light
-};
-
-// Create the earthquake and tectonic plate layers for our map.
-let home_values = new L.LayerGroup();
-
-// We define an object that contains the overlays.
-// This overlay will be visible all the time.
-let overlays = {
-  Home_Values: home_values
-};
-
-// Create the map object with a center and zoom level.
-let map = L.map("mapid", {
-  center: [
-    39.5, -98.5
-  ],
-  zoom: 5,
-  layers: [streets]
-});
-
-
-// Then we add a control to the map that will allow the user to change
-// which layers are visible.
-L.control.layers(baseMaps, overlays).addTo(map);
-
-counties = d3.json("https://raw.githubusercontent.com/raywhelan01/Housing_Final_Project/Ray/Machine%20Learning/Resources/county.json")
-
-
-
-function census(data) {
-    let out = {}
-    let row; 
-    for (let i=0; i <data.length; i++) {
-      row = data[i];
-      out[+row.fips] = row;
-    }
-    return out
-} 
-//finalData = censusData;
-//finalData = census(censusData);
-//console.log(finalData)
-
-// the function for setting the style
-function style(feature) {
-    // default color is black
-    let color = "#000"
-    let covidis = ["#002051","#0d346b","#33486e","#575c6e","#737172","#8b8677","#a49d78","#c3b56d","#e6cf59","#fdea45"]
-    // if geometry is defined, get the color from the d3 RdPu colormap
-    if (feature.properties.decile !== undefined)
-        color = covidis[feature.properties.decile -1];
-    return {
-        fillColor: color,
-        color: "#000",
-        weight: 1,
-        fillOpacity: 0.75
-    };
+empSlide.oninput = function() {
+  empOut.innerHTML = this.value;
 }
 
-// Define a function that will get called for each geometry feature
-// This will add a Popup feature for each feature
-function onEachFeature(feature, layer) {
+var stateSlide = document.getElementById("inState");
+var stateOut = document.getElementById("inStateOut");
+stateOut.innerHTML = stateSlide.value;
 
-    if (feature.properties.decile !== undefined) {
-        
-        // value of percent no internet for this county
-        // use the d3-format library: https://github.com/d3/d3-format
-        let value = feature.properties.home_value;
-        let formattedValue = d3.format("$.2f")(value);
-        
-        // define the popup content
-        let content = `<div>County Name: ${feature.properties.name}</div>
-                       <div>Median Home Value: ${formattedValue}</div>
-                       <div>Decile: ${feature.properties.decile}</div>`
-
-        // bind the popup to the layer
-        layer.bindPopup(content);
-        
-        layer.on('mouseover', function (e) {
-            this.openPopup();
-        });
-        layer.on('mouseout', function (e) {
-            this.closePopup();
-        });
-    }
+stateSlide.oninput = function() {
+  stateOut.innerHTML = this.value;
 }
 
-// add the counties to the map, with the style and popup
-// See https://leafletjs.com/examples/geojson/
-//let countyLayer = L.geoJson(counties, {style: style, onEachFeature: onEachFeature}).addTo(map);
+var incSlide = document.getElementById("medInc");
+var incOut = document.getElementById("medIncOut");
+incOut.innerHTML = incSlide.value;
 
-
-// Retrieve the Tectonic Plate data.
-counties.then(function(data) {
-    console.log(data);
-    //Create the GeoJson data
-    L.geoJSON(data, {
-      style: style,
-      onEachFeature: onEachFeature
-      }
-    ).addTo(home_values);
-    home_values.addTo(map);
-  });    
-
-
-
-// Create a legend control object.
-let legend = L.control({
-  position: "bottomright"
-});
-
-// Then add all the details for the legend.
-legend.onAdd = function() {
-  let div = L.DomUtil.create("div", "info legend");
-
-const deciles = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-const colors = ["#002051","#0d346b","#33486e","#575c6e","#737172","#8b8677","#a49d78","#c3b56d","#e6cf59","#fdea45"];
-
-// Looping through our intervals to generate a label with a colored square for each interval.
-for (var i = 0; i < deciles.length; i++) {
-  console.log(colors[i]);
-  div.innerHTML +=
-    "<i style='background: " + colors[i] + "'></i> " +
-    deciles[i] + "<br>";
+incSlide.oninput = function() {
+  incOut.innerHTML = this.value;
 }
-return div;
-};
-legend.addTo(map);
+
+// Reference the HTML table using d3
+var tbody = d3.select("tbody");
+//Function for creating the table 
+function buildTable(data, fips) {
+    let vars = ['NAME', '% Housing Units Occupied', '% Unemployment Rate', '% Born in State', 'Median Income', 'Median Home Value']
+    tbody.html("");
+    let row = tbody.append("tr");
+    vars.forEach((val) => {
+        let cell = row.append("td");
+        cell.text(data[fips][val]);
+ 
+    });
+    let hypo = data[fips];
+    hypo['% Housing Units Occupied'] = data[fips]['% Housing Units Occupied']*(1+(occSlide.value/100));
+    hypo['% Unemployment Rate'] = data[fips]['% Unemployment Rate']*(1+(empSlide.value/100));
+    hypo['% Born in State'] = data[fips]['% Born in State']*(1+(stateSlide.value/100));
+    hypo['Median Income'] = data[fips]['Median Income']*(1+(incSlide.value/100));
+    let row2 = tbody.append("tr");
+    vars.forEach((val) => {
+        let cell2 = row2.append("td");
+        cell2.text(hypo[val]);
+    });
+}
+
+async function predict() {
+  let fips = d3.select("#fips").property("value");
+  console.log(fips);
+  data = await d3.json("https://raw.githubusercontent.com/raywhelan01/Housing_Final_Project/Ray/Machine%20Learning/Resources/county.json");
+  console.log(data[fips]);
+   buildTable(data, fips);
+}
+
+d3.json("https://raw.githubusercontent.com/raywhelan01/Housing_Final_Project/Ray/Machine%20Learning/Resources/county.json").then(function(data) {
+  console.log(data['6081.0']);
+  let fips = '6081.0';
+  console.log(data[fips]);
+  buildTable(data, '6081.0');
+})
+
+//d3.selectAll("#predict-btn").on("click", predict());
 
