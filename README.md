@@ -10,6 +10,11 @@ https://docs.google.com/presentation/d/1TqQ5yPDfedflKDzIyPYM1goTNhBPMkDN412vkw8U
 <BR> 
   
 ### Project Overview <BR>
+The Census Bureau shows in 2019 nearly 20 million people moved. That represents 10% of the population and based on the Bureau's last population estimate of more than 328 million we could infer that more than 30 million individuals or families will be moving in 2020.
+ <BR>
+Moving and housing can present those 30 million movers with many unknowns or questions like: <BR>
+   
+**-** Are there families in the area?
   
 ### Scripting Languages and Tools : <BR>
   
