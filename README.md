@@ -74,9 +74,12 @@ Using HTML inputs tags user input is taken.  Using class and container function
 
 **Part 2 :** Using the functions the data is checked by passing the value as the argument to the function.  Based on the values dataset is filtered using D3 and .filter function to keep the data which matches with the argument passed to the function. A new table is created using build table function which displays the data on the website. <BR>
   
- **Future Expansion **
+ **Future Expansion**
  
 We would like to add for phase II other important factors like crime statistics, school system ratings, and graduation rates.
 Our Housing Insights page predicts how economic data affects home values.
 Phase II of this could integrate this into the Moving Buddy page for an all in one place view for the user.
+
+
+**Website Overview** 
  
