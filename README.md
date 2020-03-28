@@ -1,9 +1,12 @@
 # Moving Buddy 
-### Scripting Languages and Tools :
 
+### Project Over View <BR>
+  
+### Scripting Languages and Tools : <BR>
+  
 **1.** : **JavaScript** : JS , is a high-level ,Just in time compiled, object-oriented programming language . JS is used for  creating and styling various webpages with HTML .<BR>
- **->** For this project we have used  JS library like D3, D3.js helps in dynamically manipulating the data for the websites and its emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. <BR>
-**->** For filtering the data for each and if loops along with the arrow functions were used. <BR>
+ ** -> ** For this project we have used  JS library like D3, D3.js helps in dynamically manipulating the data for the websites and its emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. <BR>
+** -> ** For filtering the data for each and if loops along with the arrow functions were used. <BR>
   
 **2.**: **HTML** : HTML is the standard markup language for Web pages. We have created the final website using HTML and CSS .
 
@@ -11,9 +14,40 @@
 
 **4.** : **VS Code** : As the text Editor 
 
+**5.** : **SQLAlchemy** : Provides a nice “Pythonic” way of interacting with databases.
+
+
 ### Process: ### 
 
-The data is filtered on five parameters 
+**Data Extraction ** 
+
+**Data Source : <BR>**
+  
+A Census data package is used to retrieve the data. 
+This package is designed to provide easy access to the U.S. Census Bureau’s API  <BR>
+  
+**Census Data : ** <BR>
+
+The American Community Survey (ACS) is an ongoing survey that provides data every year. The ACS covers a broad range of topics about social, economic, demographic, and housing characteristics of the U.S. population<BR>
+
+Detailed Tables, Subject Tables, Data Profiles, Comparison Profiles, and Selected Population Profiles are available for the nation, all 50 states <BR>
+  
+**Detailed Tables** contain the most detailed cross-tabulations, many of which are published down to block groups. The data are population counts. There are over 20,000 variables in this dataset.
+**Subject Tables** provide an overview of the estimates available in a particular topic.  The data are presented as population counts and percentages.  There are over 18,000 variables in this dataset. 
+**Data Profiles** contain broad social, economic, housing, and demographic information. The data are presented as population counts and percentages. There are over 1,000 variables in this dataset.
+  
+  
+**Data Retrieval: ** <BR>
+
+ A Census data package is used to retrieve the data. <BR>
+This package is designed to provide easy access to the U.S. Census Bureau’s API  (https://pypi.org/project/CensusData/) <BR>
+
+Details : 1384 variables across 838 Counties  <BR>
+
+
+
+The data is filtered Using three  parameters 
+
 **1.*** State
 **2.*** Income
 **3.*** Family Size
