@@ -14,7 +14,9 @@ The Census Bureau shows in 2019 nearly 20 million people moved. That represents 
  <BR>
 Moving and housing can present those 30 million movers with many unknowns or questions like: <BR>
    
-**-** Are there families in the area?
+**-** Are there families in the area? <BR>
+**-** Will I have things in common with my neighbors like average age or income?<BR>
+**-** Or is my degree or work history in demand? <BR>
   
 ### Scripting Languages and Tools : <BR>
   
