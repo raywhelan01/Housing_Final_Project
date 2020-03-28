@@ -28,9 +28,9 @@ For filtering the data for each and if loops along with the arrow functions were
 
 ### Process: ### 
 
-**Data Extraction ** 
+** Data Extraction ** 
 
-**Data Source : <BR>**
+***Data Source : <BR>***
   
 A Census data package is used to retrieve the data. 
 This package is designed to provide easy access to the U.S. Census Bureau’s API  <BR>
