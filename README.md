@@ -32,12 +32,13 @@ For filtering the data for each and if loops along with the arrow functions were
 
 **5.** : **SQLAlchemy** : Provides a nice “Pythonic” way of interacting with databases.
 
+**6.**  : **Bootstrap**  : Bootstrap is an open source toolkit for developing with HTML, CSS, and JS.
 
 ### Process: ### 
 
-** Data Extraction ** 
+**Data Extraction ** 
 
-***Data Source : <BR>***
+**Data Source** <BR>
   
 A Census data package is used to retrieve the data. 
 This package is designed to provide easy access to the U.S. Census Bureau’s API  <BR>
@@ -63,6 +64,7 @@ Details : 1384 variables across 838 Counties  <BR>
 
 
 The data is filtered Using three  parameters 
+
 **1.*** State
 **2.*** Income
 **3.*** Family Size
