@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="static/css/style2.css">
+</head>
+<body class="body">
+    <body>
+        <div>
+            <nav class="navbar navbar-dark bg-dark">
+                <ul>
+                    <li><a class="navbar-brand" href="index.html">
+                        <img src="static/images/cartoon-guy.png" width="40" height="55">
+                        Your Moving Buddy
+                    </a>
+                    <li><a class="navbar-brand" href="insights2.html">
+                        <img src="static/images/cartoon-house2.jpg" width="57" height="48">
+                        Housing Buddy Insights
+                    </a>
+                </ul>
+            </nav>
+        </div>
+        <div class="background">
+            <h1 style="font-size:50px;line-height: 2.0;font-weight: 700;color: rgb(246, 244, 248);text-shadow: 1px 4px rgba(58, 108, 216);">Things change.</h1>
+            <p></p>
+            <p style="font-size:42px;line-height: 2.0;font-weight: 600;text-shadow: 1px 4px rgb(58, 108, 216);color: rgb(31, 12, 100);">Let's see how that affects home values!</p>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3">
+                    <h5 href="#">
+                        <img src="static/images/Robot.jpeg" width="320" height="225" class="align-baseline" alt="">
+                    </h5>
+                </div>
+                <div class="col-md-9">
+                    <p style="font-size:21px; color:rgb(68, 67, 67);">Have you heard of a new apartment complex going in or has the job market seen an increase in jobs? 
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3">
+                    <form class="bg-dark">
+                        <h5 align="center">Your Moving Buddy Details</h5>
+                        <ul class="list-group bg-dark">
+                            <li class="list-group-item bg-dark">
+                                <label for="date">Enter Income</label>
+                                <input type="number" placeholder="$50,000-75,000" id="datetime"/>
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="city"> Family Size</label>
+                                <input type="number" placeholder="0-2" id="city"/>
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="state">Enter State</label>
+                                <input type="text" placeholder="State" id="state"/>
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="country">Enter Country</label>
+                                <input type="text" placeholder="Country" id="country"/>
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="shape">Enter Shape</label>
+                                <input type="text" placeholder="Shape" id="shape"/>
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <button id="filter-btn" type="button" class="btn btn-light">
+                                    Find a Match!
+                                </button>
+                            </li>
+                        </ul>
+                    </form>
+                </div>
+            </div>
+        </div>   
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+        <script src="static/js/app.js"></script>
+</body> 
+</html>
