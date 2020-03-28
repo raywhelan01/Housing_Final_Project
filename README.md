@@ -1,8 +1,10 @@
-### Moving Buddy 
+### Moving Buddy :<BR>
 
 Moving Buddy is like having you own research assistant, with a few clicks you can find counties all over the US that fit your family's style .<BR> 
   
+  ### Moving Buddy Final Submission folder:<BR>
   
+Final_submission_moving_buddy
   
 ### Presentation : <BR>
 https://docs.google.com/presentation/d/1TqQ5yPDfedflKDzIyPYM1goTNhBPMkDN412vkw8UFzM/edit?usp=sharing
