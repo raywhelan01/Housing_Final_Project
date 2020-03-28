@@ -1,12 +1,21 @@
-# Moving Buddy 
+### Moving Buddy 
 
-### Project Over View <BR>
+Moving Buddy is like having you own research assistant, with a few clicks you can find counties all over the US that fit your family's style .<BR> 
+  
+  
+  
+### Presentation : <BR>
+https://docs.google.com/presentation/d/1TqQ5yPDfedflKDzIyPYM1goTNhBPMkDN412vkw8UFzM/edit?usp=sharing
+
+<BR> 
+  
+### Project Overview <BR>
   
 ### Scripting Languages and Tools : <BR>
   
 **1.** : **JavaScript** : JS , is a high-level ,Just in time compiled, object-oriented programming language . JS is used for  creating and styling various webpages with HTML .<BR>
- ** -> ** For this project we have used  JS library like D3, D3.js helps in dynamically manipulating the data for the websites and its emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. <BR>
-** -> ** For filtering the data for each and if loops along with the arrow functions were used. <BR>
+For this project we have used  JS library like D3, D3.js helps in dynamically manipulating the data for the websites and its emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. <BR>
+For filtering the data for each and if loops along with the arrow functions were used. <BR>
   
 **2.**: **HTML** : HTML is the standard markup language for Web pages. We have created the final website using HTML and CSS .
 
@@ -47,7 +56,6 @@ Details : 1384 variables across 838 Counties  <BR>
 
 
 The data is filtered Using three  parameters 
-
 **1.*** State
 **2.*** Income
 **3.*** Family Size
