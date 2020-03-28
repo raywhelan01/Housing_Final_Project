@@ -19,8 +19,8 @@ function buildTable(data) {
 //Function to handle multiple filters
 function updateFilters() {
     let state_name = d3.select("#state_name").property("value");
-    let income = d3.select("#avg_year_round_income").property("value");
-    let family_size = d3.select("#county_avg_family_size").property("value");
+    let income = d3.select("#median_houshold_year_round_incomes").property("value");
+    let family_size = d3.select("#Average_household_size").property("value");
     //let country = d3.select("#countryname").property("value");
     //let shape = d3.select("#shape").property("value"); 
 
@@ -38,12 +38,12 @@ function updateFilters() {
     if (income) {
         // Apply `filter` to the table data to only keep the
         // rows where the `state` value matches the filter value
-        filteredData = filteredData.filter(row => row.avg_year_round_income >= income );
+        filteredData = filteredData.filter(row => row.median_houshold_year_round_incomes >= income );
     }
     if (family_size) {
         // Apply `filter` to the table data to only keep the
         // rows where the `country` value matches the filter value
-        filteredData = filteredData.filter(row => row.county_avg_family_size >= family_size);
+        filteredData = filteredData.filter(row => row.Average_household_size >= family_size);
     }
    // if (shape) {
         // Apply `filter` to the table data to only keep the
