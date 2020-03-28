@@ -16,25 +16,32 @@
     <body>
         <div>
             <nav class="navbar navbar-dark bg-dark">
-                <a class="navbar-brand" href="index.html">
-                    Your Moving Buddy
-                </a>
+                <ul>
+                    <li><a class="navbar-brand" href="index.html">
+                        <img src="static/images/cartoon-guy.png" width="40" height="55" class="align-left" alt="">
+                        Your Moving Buddy
+                    </a>
+                    <li><a class="navbar-brand" href="insights2.html">
+                        <img src="static/images/cartoon-house2.jpg" width="57" height="48" class="align-right" alt="">
+                        Housing Buddy Insights
+                    </a>
+                </ul>
             </nav>
         </div>
         <div class="jumbotron">
-            <h1 style="line-height: 3.0;font-weight: 900;">Moving?</h1>
-            <p style="font-size:36px;font-weight: 700;">Find the best place for you!</p>
+            <h1 style="font-size:61px;font-weight: 775;color: rgb(58, 108, 216);text-shadow: 1px 4px rgba(60, 68, 73);font-style: italic;">Moving?</h1>
+            <p></p>
+            <p style="font-size:48px;font-weight: 600;text-shadow: 1px 4px rgb(54, 52, 59);color: rgb(252, 239, 121);font-style: italic;">Your perfect home is a few clicks away!</p>
         </div>
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-3">
                     <h5 href="#">
                         <img src="static/images/cartoon-bubble2.png" width="320" height="225" class="align-baseline" alt="">
-                        
                     </h5>
                 </div>
-                <div class="col-md-8">
-                    <p style="font-size:21px; color:rgb(68, 67, 67)">According to the Census Bureau nearly 10% of the US relocate every year. Use Moving Buddy to find the best places in the US to relocate to based on what matters the most to you. 
+                <div class="col-md-9">
+                    <p style="font-size:21px; color:rgb(68, 67, 67);">According to the Census Bureau nearly 10% of the US relocate every year. Use Moving Buddy to find the best places in the US to relocate to based on what matters the most to you. 
                     </p>
                 </div>
             </div>
@@ -43,19 +50,19 @@
             <div class="row">
                 <div class="col-md-3">
                     <form class="bg-dark">
-                        <h5 align="center">Your Moving Buddy Details</h5>
+                        <h5 align ="center">Your Moving Buddy Details</h5>
                         <ul class="list-group bg-dark">
                                 <li class="list-group-item bg-dark"  >
                                 <label for="state_name">Enter state Name</label> 
                                 <input type="object" placeholder="State" id="state_name" />
                                 </li>
                                 <li class="list-group-item  bg-dark">
-                                <label for="avg_year_round_income">Income </label> 
-                                <input type="number" placeholder="50000-60000" id="avg_year_round_income" />
+                                <label for="median_houshold_year_round_incomes">Income </label> 
+                                <input type="number" placeholder="50000-60000" id="median_houshold_year_round_incomes" />
                                 </li>
                                 <li class="list-group-item  bg-dark">
-                                    <label for="county_avg_family_size">Family Size</label> 
-                                    <input type="number" placeholder="0-2" id="county_avg_family_size" />
+                                    <label for="Average_household_size">Family Size</label> 
+                                    <input type="number" placeholder="0-2" id="Average_household_size" />
                                 </li>
                           
                         <button id="filter-btn" type="button" class="btn btn-dark">Filter Table</button> </li>
@@ -64,28 +71,20 @@
                         <table class='bg-dark' >
                                 <thead>
                                   <tr class="bg-dark">
-                                        <th>county_name</th>
-                                        <th>state_name</th>
-                                        <th>total_population</th>
-                                        <th style="word-wrap: break-word">percentage_age_group_1to9_years</th>
-                                        <th>percentage_age_group_10to14_years</th>
-                                        <th>percentage_age_group_15to19_years</th>
-                                        <th>percentage_age_group_20to34_years</th>
-                                        <th>percentage_age_group_35to44_years</th>
-                                        <th>percentage_age_group_45to64_years</th>
-                                        <th>percentage_age_group_65_above_years</th>
-                                        <th>avg_house_hold_income</th>
-                                        <th>avg_year_round_income</th>
-                                        <th>percentage_with_highschool_diploma</th>
-                                        <th>percentage_with_professional_diploma</th>
-                                        <th>percentage_with_bachelors_degree</th>
-                                        <th>percentage_with_masters_degre</th>
-                                        <th>Works_in_management_business_science_arts</th>
-                                        <th>service_occupations</th>
-                                        <th>works_in_construction_or_maintenance</th>
-                                        <th>works_as_transporters</th>
-                                        <th>County_avg_age</th>
-                                        <th>county_avg_family_size</th>
+                                        <th><small><b>County</b></small></th>
+                                        <th><small><b>State</b></small></th>
+                                        <th><small><b>Population</b></small></th>
+                                        <th><small><b>Average Year round household Income</b></small></th>
+                                        <th><small><b>Average Age</b></small></th>
+                                        <th><small><b>Average family size</b></small></th>
+                                        <th><small><b>%  High school & professional Diploma</b></small></th>
+                                        <th><small><b>% Bachelors and above Degree</b></small></th>
+                                        <th><small><b>% Professionals in management business science & arts</b></small></th>
+                                        <th><small><b>%  Professionals in service industry</b></small></th>
+                                        <th><small><b>%  Professionals in sales industry</b></small></th>
+                                        <th><small><b>%  Professionals in construction and maintenance Field</b></small></th>
+                                        <th><small><b>%  Tranportation and Moving Professionals</b></small></th>
+                                        
                                   </tr>
                                 </thead>
                                 <tbody></tbody>
