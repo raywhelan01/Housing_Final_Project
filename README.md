@@ -51,9 +51,11 @@ The American Community Survey (ACS) is an ongoing survey that provides data ever
 
 Detailed Tables, Subject Tables, Data Profiles, Comparison Profiles, and Selected Population Profiles are available for the nation, all 50 states <BR>
   
-**Detailed Tables** contain the most detailed cross-tabulations, many of which are published down to block groups. The data are population counts. There are over 20,000 variables in this dataset.
-**Subject Tables** provide an overview of the estimates available in a particular topic.  The data are presented as population counts and percentages.  There are over 18,000 variables in this dataset. 
-**Data Profiles** contain broad social, economic, housing, and demographic information. The data are presented as population counts and percentages. There are over 1,000 variables in this dataset.
+**Detailed Tables** contain the most detailed cross-tabulations, many of which are published down to block groups. The data are population counts. There are over 20,000 variables in this dataset.<BR>
+  
+**Subject Tables** provide an overview of the estimates available in a particular topic.  The data are presented as population counts and percentages.  There are over 18,000 variables in this dataset. <BR>
+  
+**Data Profiles** contain broad social, economic, housing, and demographic information. The data are presented as population counts and percentages. There are over 1,000 variables in this dataset.<BR>
   
   
 **Data Retrieval: ** <BR>
